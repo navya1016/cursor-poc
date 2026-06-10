@@ -31,5 +31,3 @@ This task helped me understand how to :
 3. Commit and push code using git.
 4. Document work using README file.
 
-
-
