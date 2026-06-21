@@ -1,4 +1,4 @@
-youtube-transcript-api>=1.6.0
+youtube-transcript-api==1.2.4
 duckdb>=1.0.0
 supabase>=1.0.0
 requests>=2.0

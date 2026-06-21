@@ -1,0 +1,1560 @@
+# METADATA
+{
+  "expert": "Jason Lemkin",
+  "video_id": "RZYUn_ExLBY",
+  "query": "Jason Lemkin SaaStr interview"
+}
+
+# TRANSCRIPT
+Welcome to the official Saster Podcast
+where you can hear some of the best SAS
+speakers. This is where the cloud meets
+up today on the Saster Podcast. Frankly,
+if you didn't accelerate growth at all,
+you get a D because you had a year. You
+had a year. I I give everyone a pass for
+last year. I give everyone a big pass
+for 2023. All these tools were kind of
+terrible in AI. No one gets a pass this
+year. You saw it coming. You saw it
+changing. You saw these Aentic tools
+getting better. If you didn't
+reacelerate and you weren't in market
+with a great agent, a great Aentic
+product this year, you get a D minus,
+but you don't get an F because you got
+through the year, but you can't get a D
+next year. It's you're late. So, this is
+your job to go find it, right? Find the
+tailwinds.
+Hey, Sasser, imagine having agents for
+every support tap. One that triages
+tickets, another that catches
+duplicates, one that spots churn risk.
+That'd be pretty amazingly, right? Happy
+Fox just made it real with autopilot.
+These pre-built AI agents deploy in
+about 60 seconds and run for as low as 2
+cents per successful action. All of it
+sits inside the Happy Box omni channel
+AI first support stack. Chatbot,
+C-Pilot, and Autopilot working as one.
+Check them out at happyox.com/saster.
+Hey everybody, Sasser annual will be
+back May 2026, the world's largest SAS
+and AI gathering for executives. Just
+this last May, we hosted 10,000
+attendees with 68 VP level and above
+attendees, 36% CEOs and founders, and
+25% were AI first professionals. It's
+the very best of STER attendees and
+decision makers that come to SAS annual
+and AI summit each and every year. But
+here's the reality, folks. The longer
+you wait, the higher ticket prices get.
+They're cheap now. They're cheap. So
+just get them early lock in your spot
+today. Use my code Jason 100 for
+exclusive savings. Get your tickets at
+podcast.sasterual.com
+or just use code Jason 100 when you
+check out. See you there. Saster annual
+and AISummit 2026. It will rock.
+The the theme of this session so much of
+what we've done has been tactical. This
+will be tactical in a different way. Is
+what's your job for next year? And I
+think a lot of folks that have already
+been here today and yesterday have come
+out and my job is to bring back a couple
+of agents next year. My job is to
+automate the GTM. My job is to move
+faster
+and use these tools. And that's all
+great. And the rest of the year, our
+whole theme will be very tactical. How
+do the tools work? What works? What are
+the blockers? But I think the most
+important thing strategically for folks
+here if you have not ex reacelerated or
+accelerate this year is you've got to
+find your tailwinds. You've got to find
+your tailwinds. And and I'm going to
+walk you through this in the next slide
+that we're almost in a time of a
+paradox. We we are in a time of an
+almost paradox in 26. Some things are
+much easier and certainly much faster
+than just 18 months ago. Some things are
+harder. And I want to walk through why
+that's confusing when you dig into
+trends, dig into data, and dig in what's
+happening. And I'm going to I want to
+spend 25 minutes or so walking through
+what's really happening from buying to
+funding to VC and more.
+But your job is to grab some of this AI
+mojo if you don't have it. We're not all
+clay or artisan or uh anthropic or gamma
+and that's okay. But there is budget out
+there and there is incredible demand.
+And even if you're not seeing the demand
+for your own product, you can feel your
+own demand for other vendors. There is
+budget there and your job is to freaking
+get it to attach to those headwinds for
+real. I'm sorry, the tailwinds for real.
+Not battle the headwinds, not battle
+people that don't want to buy your
+product anymore because it's not AA
+native or doesn't do what you want. Your
+job is to radically increase the
+functionality of your product so you can
+tap into the what buyers want to buy
+right now, not what they wanted to buy
+in 2023, let alone 2021. That's your
+job. Your job is to find these tailwinds
+cuz they're there, but it's not obvious.
+So, let me kind of summarize this and
+then I'll dig into it. And I know you
+may know some of this, you may know a
+little bit, but I'm going to go to it in
+some depth, which is one of the things
+that's most confusing, especially if
+you're on the social medias, the
+accessing LinkedIn is what the f is
+going on venture capital because every
+day we read about uh, you know,
+superbase, you know, database for AI, 5
+billion last week, two billion the week
+before, 1 billion before that. We see
+repletable from 0 to 200 million this
+year going from, you know, in some cases
+nothing to to 4 billion valuation. And
+it's got to be easy, right? It's got to
+be easy. I think most people in this
+room will tell you it's actually harder
+to raise capital despite these big deals
+because a handful of big AI deals are
+absorbing all the capital. And I'll show
+you the data very crisply. So, it's a
+weird time if fundraising matters to
+you, if raising money matters to you,
+because in some ways the dollars are
+back to the craziness of 2021, but it is
+not distributed evenly. of all the
+venture capitalists here was going into
+four deals. Four deals and 2021 was so
+different than today. The the it was it
+was it was demanded. It was being locked
+down. There were so many things. But
+beyond all that, it was very
+distributed. There were and basically
+any SAS company that could get to 20
+million or so ARR back then was going to
+grow triple digits and it was going to
+get funded and was going to become a
+unicorn. Okay. I remember sitting with a
+leading VC in 2021 and he was telling
+going down his portfolio and saying,
+"Well, this one will be unicorn in about
+90 days. This one will be unicorn about
+110 days." This and that that's just the
+way it worked. It was very distributed
+and there's almost a thousand of these
+unicorns from 2021 waiting to possibly
+never go public. Okay, it is not as
+evenly distributed today. It is very
+concentrated in the very top and it
+doesn't necessarily make most folks
+lives easier. And I'll show you the
+data. Half go into four deals. If the
+number is the same and the dollar is the
+same, but half going into four deals is
+nothing like the last the the last wave.
+This one's really important. I'm going
+to show you the data. Software spend is
+accelerating to a record level next
+year, especially the enterprise. A
+record level. It is reacelerating the
+CIO's budget. But in 2021, in 2022, it
+was evenly distributed. Everyone got
+some, you know, every GTM tool, every e
+signature tool, every zoomin tool,
+everyone got some of this budget. Not
+the way it's working now of this record
+budget increase. According to Gardner,
+which I'll show you, half is going into
+price increases, right? A few years ago,
+not everybody increased prices 7 or 8%
+every year. Now, everyone's doing it to
+fatiguing their base. So, half of this
+record spend is going to price
+increases. And it's not quite that
+simple. It's not just raising prices per
+se. It's also additional offerings from
+the vendors which we'll dig into. So
+half of this bonanza is going to
+existing invent uh vendors which you
+don't get and 30% of it is going into
+new AI tools that they're bringing in.
+It doesn't leave much left for all the
+rest. And in fact what I'll show you is
+if you're not in existing invest uh
+vendors that are able to increase
+pricing and you're not in a top AI
+initiative, the number of vendors are
+shrinking or flat. It's harder. Your job
+is harder. So, you're only going to get
+tailwinds if you're in one of these two
+groups. Okay,
+we'll show you this one. This is a
+version. The first one,
+interestingly, it feels like a unicorns
+are back with a passion and then
+decacorns and centicorns are even more
+of, but it's concentrated. It's almost
+as much money in dollars, but not in
+deals.
+And IPOs, man, I don't know how many of
+you guys listen to the podcast that
+we've done with Harry and Rory for about
+five or six months.
+when we started doing it, the IPOs just
+started to come back. Um, and then we
+had Figma, which rocketed 4x, right? I
+think I haven't checked today, but
+Figma's back down or below its IPO price
+despite incredible growth. CLA IPOed,
+got out, I think it's down 48% as of
+today from its IPO. So, all this great
+IPO energy that we had that kind of
+culminated in Figma, but but there were
+others. Um, a lot of them are still up
+and some of them like Cororeweave that
+are AI related are still strong, but
+they're all down from their peak. And
+IPOs are ending the year unfortunately
+with a whimper with a whimper. We didn't
+we didn't open up the floodgates for
+IPOs. And it might have felt like that
+on social media, but the reality is it's
+not going to make it any easier for most
+folks to go public. It is what it is.
+It's life as founders we roll on. It's
+been worse, but this was not as great as
+it seemed for IPOs.
+And and then the last one here, and then
+I'll dig into the data,
+but this is the tough one. It's almost
+the paradox.
+>> And it's literally never been easier to
+scale to 100 million quickly as ever,
+but only for a select few.
+Only for again, listen, there were crazy
+there were there were the the crazy
+hoppins that went up and down. There was
+the Zoom hysteria. There was a lot of
+lot of stuff that happened in 2020 2021.
+But but we were more on the same journey
+then and a gamma will already went from
+zero to 100 one to 100 this year. Replin
+and lovable one to 200 million already
+this year. You know I'm I'm a small
+investor in a video app called
+Higsfield. I you know I just found out
+they did a million dollars on Black
+Friday and already got to 100 million
+this year doing video and they have tons
+of competition. T I mean it's a great
+app. I love this app. I've been a user
+since day one an investor but it's not
+they don't own the market. I mean it's
+one of the best best teams but already
+at 100 million this year. So if you nail
+this AI product market fit this 2 by two
+literally in our lifetimes has it's
+never been easier in air quotes to get
+to 100 million. It's a super cycle but
+there's so much competition. folks are
+getting cloned so quickly
+and um there there's there's a there's a
+friend of mine that a company I invested
+in here that totally awesome AI very
+disruptive I think launched about 60 ago
+has four clones already none of them are
+as good but again we talked about a
+little bit this morning it's just faster
+everything's faster so it's faster than
+100 million less stable and more
+concentrated so
+you could uh say wo is me you could
+stare at your
+You could blame the the the economy. Uh
+you can blame everyone else for raising
+prices or you can figure out what the f
+everyone else is doing. Go get a little.
+Your job is to get some of that to go
+get some of that. And you had, frankly,
+if you didn't accelerate growth at all
+this year, you get a D because you had a
+year. You had a year. I I give everyone
+a pass for last year. I give everyone a
+big pass for 2023. All these tools were
+kind of terrible in AI. No one gets a
+pass this year. You saw it coming. You
+saw it changing. You saw these Agentic
+tools getting better. If you didn't
+reacelerate and you weren't in market
+with a great agent, a great Aentic
+product this year, you get a D minus,
+but you don't get an F because you got
+through the year. But you can't get a D
+next year. It's you're late. So, this is
+your job to go find it, right? Find the
+tailwinds. Okay. So, let's dig in. I
+It's the whole presentation. If you want
+to leave now and go do something more
+interesting, you can. Okay, now I'm just
+going to just going to dig into some of
+the numbers. You don't have to say or
+you can ask questions afterwards, but
+just to show it visually. These are some
+charts from SAS and and these two I I
+regurgitated from Crunch Base, but it'll
+kind of show you um I didn't have the we
+we just ended November, but October 2025
+was the highest on the right the highest
+valuation
+total capital raised by new unicorns in
+three years. So, and you you get it.
+We're not quite back at 2021 peak for
+dollars into unicorns. I think we will
+be next year, but but it's a number two.
+But look at the left. The deal count's
+like a fraction of what it was. The deal
+count. This is just a visual
+representation of the concentration. The
+money's going back.
+So many investors that I've known over
+the years, so many actually classic SAS
+and B2B investors that used to do seed
+and net, they're doing anthropic at 80
+billion, 100red billion. Um they're
+doing ramp at 32 billion. Like these
+they used to do a deals and and like why
+are they doing this? Are these stupid
+people? No. That that's actually where
+the the easy money is, right? I mean
+just said today Anthropic's going to
+raise at 300 billion. So if you were a
+VC and you invested at just 60 billion
+or 80 billion, you're looking like a
+genius rather than invested in some new
+startup at the A stage and you're just
+hoping your money doubles in two years.
+Like it's just I I know it's air quotes,
+but it's where the easy money is. And
+not only is it easy to get if you get
+into an anthropic or whatever, not only
+is it easy to see your asset appreciate
+on paper, it's easy because there's
+liquidity. You can actually sell your
+shares. And it's easy because, and
+here's what's happening in venture, you
+can put so much money in, right? It's
+great if you put $5 million into a
+startup at 50 million and then it
+doubles to 100 million. Your five turns
+into 10. That's great. The profit to the
+whole VC firm is 20% of that, 2 million.
+If you're able to put a hundred million
+into enthropic into triples, right, then
+you've made 40 million bucks for
+actually less work because you didn't
+have to find the company from scratch.
+So, it's less work to make 10 times more
+money. That's just math today and you're
+seeing it here. And so, what if you talk
+to investors here or you listen to the
+podcast we do with Harry Rury, what
+you'll hear is um and you'll see it if
+you're an investor, most startups are
+not doing great today. They're not. But
+the ones that are really breaking out at
+this crazy level, the investors are just
+frothing at the gums to put more money
+in. They shove money down founders
+throats, it's just because there's
+there's no ceiling to the best of them,
+right? Anthropic isn't topping out at a
+billion. Open AI isn't topping at a
+billion. They're topping at a trillion.
+And so you can just shove so much money
+into companies now. That's the game
+today, you see. And you just got to be
+aware of it. It it almost seems silly to
+do early stage investing on our pod. We
+say C is for suckers. It's resonated. It
+just seems so silly when you can just
+put the money into in into a late stage
+unicorn AI company and it quintiples in
+a year. One year. One year. Why would
+you do anything else? Why would you
+struggle to find a startup, meet the
+founders pre-revenue, figure out if
+their 3K of MR is going to go to 30 to
+learn the competition?
+Why would you do that if you could just
+invest in a leader and have your money
+quintiple? something you you could argue
+that it's that that it may come down,
+but if but if you look at all the data,
+it sure doesn't feel like this AI super
+cycle is going to end next month or next
+quarter or next year. So don't expect
+venture capital to change. And so don't
+expect I I've said it a lot on the pod
+and others are talking about it. Don't
+expect the classic triple triple double
+double startup which is you do in B2B.
+Don't expect it to get more attractive
+to most VCs unless you're doing even
+better because it doesn't make any math.
+If you think, it's just a hard way to
+make money. We're all kind of lazy.
+We're all kind of lazy. Like, we're not
+all super lazy. You're here. You came
+here, but we all want to find the
+fastest path to A to B. You know, VCs at
+the end of the day are like sales reps.
+They get 100 leads, but one of them is a
+million-dollar deal that's going to
+close in Q4. Where you going to put all
+your time? All your You put 80% of your
+time just standing around waiting for
+the email. Did it get e-signed? Okay.
+This the version VCs are doing today.
+you know, it's just it's the easy money.
+And and this is just a different one. I
+I uh I took this from Excel's recent
+analysis. It's up on Saster. This is
+another way to see it on the right,
+which is that total VCN dollars in are
+projected to be about the same and 25 as
+21 according to Excel. And that's great.
+Excuse me one sec. So, in a sense, we're
+back, right? And and again, I think 26
+will be even bigger. So, we'll surpass
+the dollars of 21. But look at the top
+four deals are taking half the money.
+Again, Mthropic X.AI, they're just
+absorbing so much money because you just
+put your couple hundred million bucks on
+the table and you double or triple down
+on a lot of money. They're just
+absorbing so much money. Like overall
+dollar is back, but again, it's into
+less less than half the companies,
+right? It's the rest of the money is
+only going into half the companies. So,
+a weird a weird market when 59.6% 6% the
+model companies are taking all the money
+and okay uh we kicked this one actually
+I just made this slide like a week ago
+it's gotten worse it will get better but
+this is the IPO story so
+just because ultimately listen one of
+the thing great things about being a f
+in a startup is you can kind of ignore a
+little bit of the externalities as long
+as you have runway as long as you have
+time you don't really have to worry
+about where NASDAQ is today you don't
+really have to worry about IPOs. It
+seems a while away. It's it's kind of
+startups are harder than big companies,
+but in a way you're in a bubble and it's
+kind of comforting to just be in your
+lane. You just do like the competition's
+killing you. You don't have enough
+people, but at least you at least you
+don't have to worry about all all the ex
+externalities. But this is um again I
+saw this one the Excel and analysis
+Excelscape that's on Saster
+IPO came back but not much. Okay, so
+there was a point in 2021 at the peak
+moment, I forget when it was when it was
+an IPO day. Okay, it obviously wasn't
+the whole year. It would have been 365
+46, but it was an IPO. Actually, I think
+it was an IPO outside of tech. This is
+just software and AI. So, um, it was an
+IPO day in 2021 and then, um, Hashi Corp
+was the last one in December of 2021 and
+then the door just slammed in 2021. And
+it was actually really weird because if
+you around if you were in the market
+back then 2022 things were actually
+great for business like people kept
+buying software. So in some cases growth
+came down a little bit. 23 it started to
+get hard to sell the same old boring B2B
+products. It was still easy in 2022 but
+man the IPO market slammed shut at zero
+zero. I don't see any zeros going back
+for more than a decade. That was a
+crummy year for for tech IPOs.
+I don't know what happened in 23 24 uh
+oh 20 was 23 Clavio maybe Clavio is not
+on this anyone know was Clavio 23 or 24
+might have been 23 claio came out of
+nowhere it's the hubspot for the Shopify
+ecosystem HubSpot pre-commerce great
+company 1.2 2 billion in revenue growing
+I think almost 40%. May they IPOed and
+then we had a few in 24. Rubric and
+service titan were great ones stream an
+interesting small one and then it seemed
+like it was coming back in 25 but maybe
+we'll end the year at 9 or 10 in tech.
+It it it's not that much and worse on
+the right again this is a couple days
+ago. This is the this is the performance
+from the peak.
+So from Figma which is for many of us
+probably the best one on the list. 74%
+down from its peak. Chime minus 30. CL
+is even worse. It's 47% today.
+So like if you're if you're a public
+market investor. Now listen, only so
+many people buy at the peak, right? But
+this doesn't get you excited, does it?
+It doesn't make you like froth at the
+mouth for another 10 IPOs or 20 IPOs
+next week. It just puts a damper on the
+market. And so we just have to adapt
+that 2026 might be a banner year for IPS
+27 might be, but we the data didn't end
+up being so great like like we might
+have thought it was mid year
+and
+this one's a tough one to internalize.
+This is by if you talked and again
+ventures venture is very important but
+it's a very small slice of the world but
+this is a tough one that I don't have a
+lot of answers to. Today's about a lot
+of answers. How do you do AI SDRs, BDRs,
+AI revops, uh scale your team? We got a
+lot of answers here. This is the one
+that's tough, which is that
+because the new AI companies are growing
+so quickly, the winners are getting
+younger. The winners are getting
+younger.
+65% are 0 to 3 years old. Now, it's not
+universal. You know, on the on the
+right, I took the screenshot from
+lovable. One year to 6.3 billion, right?
+Seems pretty pretty pretty crazy, but I
+use Replet. They're both great. I I
+actually don't really have a horse in
+the race or an investment. Rapid
+actually I think is almost 10 years old
+and I think it was 6 years old as an IDE
+and then it and then it was around and
+its tanning was perfect when Claude 4
+and everything worked and it blew up
+equally as well as lovable. So not
+everyone is the new kid on the block.
+There are plenty of folks you've hear
+today and there for every for every
+lovable there's a replet or gam gamma
+that was around for a long time and then
+AI worked and it blew up. But overall
+the the kids are younger these days not
+just in age. There's some truth to that.
+Certainly to go like to Y Coma, you meet
+a lot of 18-year-old, 19-year-old
+founders. Dropping out of Stanford your
+first year is scene is very cool. It's a
+change, but really it's that the
+companies are so young. And why is this
+kind of a bummer and it's great if you
+if you did the level around a year ago,
+right? But what it means is, and maybe
+this isn't all bad, if you've been doing
+this for a while, your VCs are just
+going to check out on you. They're just
+it's just n again like putting all your
+money into enthropic. It's just natural.
+If your company's around six, seven,
+eight, nine, 10 years and you're looking
+at this chart, you know what your job is
+as investor, go find the next lovable.
+Go find the next level. Now, it's not
+all bad. Okay, the flip side is if
+you're older and you're not a rocket
+ship, your VCs probably just don't
+investor probably mostly, at least in
+the US, they just don't care anymore. Do
+whatever you want. make a little bit of
+money, run the company how you want,
+grow 30%, 60%, 10%. As long as you don't
+need more money, more power to you guys.
+So, I don't see, you know, pre2020, I
+think when when when growth slowed when
+you were older, VCs would get agitated
+and they they'd have meetings and they'd
+talk forever and maybe even talk about
+bringing in a new CEO or something. I
+haven't heard anyone in years talk about
+bringing a new CEO into a ventureback
+startup. They just stop showing up.
+I'm a little first I'm like could I do
+the board meeting in Zoom then they move
+to Zoom and they're just there
+and as long as you don't need it like to
+to me when I was a founder I took all
+this stuff personally I still take it
+personally today if you don't take it
+personally it might not be a negative
+you might have some freedom but just be
+aware when you look at this chart it's
+just natural as an investor not just to
+chase the shenu object we're all human
+beings but it's just where the money is
+today for now today it's not that long
+tail
+And so
+it's complicated. It's complicated. It's
+also complicated for the thousand
+unicorns from 2021 that maybe aren't
+quite growing at the Figma level because
+if you go back for a second, if Figma's
+down 74% from its IPO high, you know how
+many B2B companies are better than
+Figma?
+Like approaching nuns. Okay? Like very
+few. So many of the unicorns in the
+pipeline are very very very good
+companies. They're just not quite
+glowing at the rate Figma did at a
+billion. Who's going to be excited about
+them? Unfortunately, it's got to be you.
+You've got to find your own excitement
+because your investors in the markets
+for the moment are not going to be
+excited. Okay, let's come back. Let's
+let's dig into this dichotomy. This is
+the latest Gartner report I could find.
+Folks sometimes make fun of Gartner.
+Don't
+don't because Yeah. Sometimes it's it
+feels kind of like a a scam when you
+have to pay for the to to be show up in
+the report and everything. But honestly,
+I don't know anyone that talks to more
+CEOs and buyers of software than
+Gartner. Okay. Do do are their
+predictions always off a little bit each
+year? Yes. But so are mine.
+Even a lot of your plan a lot of your
+plans on 1231 were not exactly where you
+thought they'd be at the end of the
+year. No one talks to more buyers. So I
+think the trends and the the rough data
+they see is about as good as it gets
+just because they talk to the most. And
+this is pretty crazy. Software spend
+slowed for a while. It reacelerated in
+25 because of AI to 11.9%
+at 1.2 trillion. That's a lot. Okay,
+that's a lot. That's not growing 12%. At
+your AR, okay, this is an insane amount
+of additional buying. Okay, this is and
+they're predicting it's going to
+reacelerate to 15.2 for software, 9.8%
+overall for IT. That's a lot because for
+a million reasons including the fact our
+overall global economy is not going this
+quickly, right? So we're going to put
+more and more of and ultimately a fixed
+amount of revenue in the world and in in
+companies into software and into
+technology. That's the good news. This
+is a lot 11 to 15% of this level that's
+an almost unprecedented level of
+additional investment into software.
+That's the the is unless you do
+something you ain't getting any of it.
+Okay, so let's let me I tried to
+summarize all the leading analysts ISG
+30% of the budget increases into AI.
+Deote sim 36%. Mckenzie came in low at
+20. That's still a lot. BCG Boston
+Consulting Group AI is the number one
+being reallocated from other categories.
+Gartner top 1 to2 priorities across
+almost all its se CIOS.
+They're saying their their incremental
+budget though is only going up 2.79%.
+And they're budgeting 9% price increases
+for next year. 9% price increases. So
+what does all this mean? You got to
+steal this budget from some of these
+people. You got to steal it from other
+AI need. We got to be a top free AI
+initiative or steal it from the price
+increases or you're not going to get it.
+So I said steal or be stolen. It's up to
+you. But you can't just stand around
+like in past years and build a great
+product. A great product that optimizes
+workflow that has an ROI calculator on
+your website that makes your your team
+more productive. There's just no
+freaking budget for it. Okay? AI is
+about more than being productive.
+Ultimately, it's about replacing or
+augmenting humans and delivering
+relatively rapid and massive ROI, much
+more than traditional workflow and
+database software. So, you either got to
+be in this game or the budget's going to
+be stolen from you for price increases
+and to free up money for AI cuz there's
+only so much.
+So,
+here I collected it a little bit just to
+show it to you in a different way. Even
+though
+spend into software is going to be a was
+a record this year growth of 11% and 15%
+next year at this scale at over a
+trillion the average public cloud
+company's growth is coming down. You
+know this but it's worse than this
+because they're not grabbing the budget.
+Palunteer is uh securities
+other things are going well. Clavio is
+tying into the great growth of
+e-commerce as is Shopify.
+Figma's got some of it. These are the
+winners. These are the like five of the
+top winners with the best AR multiples
+that are public companies, but overall
+we're we kind of get a D minus. The
+leaders, the public companies get a D
+minus for this year, too. It's not just
+a few of us. A D minus because they
+didn't tap into all that great budget.
+Where's that acceleration? You see it in
+this chart. I don't see any of it. I
+seen consistent deceleration. There are
+examples. MongoDB tapped back into it
+this year. They reacelerated. Even
+Twilio came back a bunch, but no one
+really crushed it. They they let all
+this money go to newer entrance. Okay,
+it it it's a more power to our
+investments and our friends that made
+money from it, but pretty pretty bad job
+by incumbents, not just some startups
+and unicorns, but but the publishers
+there. There are some exceptions
+obviously Snowflake, data bricks on the
+private side, Palunteer is crazy,
+>> but we really didn't get it all. And so
+you got to do it next year.
+And and kind of know this, but I wanted
+to break out. Actually, if you go to
+saster.ai, our newer site, not.com,
+we're still maintaining both. We can
+talk about it if you want, but we have
+market data where we pull all these top
+companies and we show you exactly what's
+happening every day. If you want in real
+time, you can even get a real-time
+newsletter. We show you multiples. It's
+just for B2B. It's pretty cool. So, I
+literally just copy this from
+saster.ai/markets AI/Markets
+and we update this every day live but it
+just sh so so not only are we sort of in
+an AI and nonAI world in many cases in
+B2B like there's this massive multiple
+divergence in today's world now this has
+always been true faster growing
+companies are worth more than slower
+growing companies but it's just it's
+very divergent say so these are public
+companies um you've got to scale these
+numbers up for startups obviously small
+companies have to grow faster than big
+companies is all things being equal. But
+if you look at the left, if you're in
+the top bucket, the ones at a billion
+plus that are growing 30%. Rubric,
+Palunteer, Figma, and others.
+Figma is actually the low trader in this
+group. They're still trading at 23 times
+AR. That's pretty damn pretty damn good.
+Now, it's kind of Palenter warps it as
+does Rubric a little bit, but the
+growth, but they're growing 43% as
+public companies.
+Public companies. That's a lot at that
+scale.
+The mo actually the ones in the middle
+are holding up surprisingly well. The
+ones that actually we saw a lot of
+deceleration. The ones that aren't
+decelerating that are growing 24% are
+growing almost are almost 12 times
+error. That's a pretty high multiple and
+then you're just getting crushed at the
+bottom. You're getting crushed when
+growth is less than 20%. 4.9 times AR. I
+wrote up pag your duty this week growing
+4% and now profitable trading at two
+times revenue 500 million in air worth a
+billion event today I think sold at one
+time revenue to bending spoons okay so
+like the markets the public markets only
+expect pretty good growth and actually
+it's you get a great deal you actually
+don't have to grow at 2021 rates to get
+really high multiples but you got to
+grow this will help you triangulate the
+buckets
+huge premium for growth. If for some
+reason, even after this year, you think
+being profitable is enough. It may be if
+you're bootstrapped and you're making a
+lot of money and put it in your own
+pocket. If you know, if you're Valve or
+someone like that, uh, you know, and
+you're bootstrapped and you just bought
+yourself a $500 million yacht last
+month, more power to you, right? I don't
+know whether it really matters how much
+Steam and Valve grow when you're making
+$4 billion in profit a year, four, five
+billion, six. I mean, you want to grow,
+but maybe four billion in profit is
+enough for 300 employees. Okay? I don't
+know. But most of us are not like that.
+We have to grow. And so, listen, a lot
+of a lot of folks had to cut or get fit
+because their their runways were
+shortened. They can't raise another
+round for the reason we talked about.
+But profitable is not enough unless
+you're utterly insanely profitable like
+Zoom. For every dollar Zoom brings in,
+50 cents goes to the bottom line. Okay?
+Pedro dudy and others don't do that. You
+got to grow and otherwise you're going
+to be worth 2x like page of duty or 1x
+like Eventbrite. You don't want to be in
+that box. You just don't want to be in
+that box. Massive split in valuations.
+Here's another one that looked good at
+first. If you didn't dig in, this is
+from like a week or two ago. Adobe
+trying to get into the AI game on the
+marketing side buys SEM Rush, Semrush
+because they wanted to be into GEO, LM,
+LLM
+optimization. So even though SCM Rush is
+it's actually bootstrap kind of a cool
+story even though they're older they do
+have a lot of good instrumentation to
+sort of see where you show up in in in
+the LLMs and chat GPT and and and claude
+and all that and and Adobe needs
+something today because actually 30% of
+Adobee's revenue is selling to
+marketers. It's not it's not creative
+cloud and others. It's the whole
+marketing more enterprise side. So they
+buy them for 1.9 billion sounds like a
+lot but it's only three times the next
+12 month sales even with a huge premium.
+This is pay because when you buy a
+public company nine times out of 10 you
+have to pay higher than the public stock
+price or most folks won't sell. Like
+even with Eventbrite selling at 1x today
+I think it was still like a 50 or 60%
+premium that bending screen had to pay.
+Otherwise people just won't they won't
+fill in their proxy form or sign the
+deal. So even with Adobe paying a huge
+premium it's only 3x revenue. No we
+don't want to sell for 3x revenue guys.
+Okay we don't want to do it. So,
+and there's just a massive split in
+valuation for growth.
+Okay, let me summarize a couple other
+things. Um, I I know this see might seem
+obvious to some folks, but I still think
+90% of folks don't get this even maybe
+don't get it that is the wrong thing.
+Maybe they want to believe something
+that isn't quite true that they want to
+believe. Folks I've talked to here today
+and yesterday, they get it. They're
+here. they're obsessed with AI for B2B
+and um
+they're a little behind. They didn't
+build gamma or replet or or whatnot
+and they want to build a co-pilot. They
+want to build a little AI that makes
+your product better. And listen, those
+are great and all of us should have a
+co-pilot. I personally honestly if if
+there is a B2B app and I can't talk to
+the app and solve my problems, if I have
+to like figure it out from a clunky UX
+or like a help menu, I don't even want
+to use those apps 2025. I I want to talk
+to the app. I want the app to tell me
+how to use it and be better, but I'm not
+going to pay you two or three times as
+much because you have a cool copilot or
+a nice chat. That's not enough. It's not
+enough. Like AI features don't count.
+They're necessary but not sufficient to
+grow. And we just I don't want to pick
+on Pataguty, but 500 million only worth
+a billion. Look at Pedroduty's website
+right now if you want patre.com. It says
+AI all over it. They've got AI
+monitoring, AI uptime monitoring, AI
+this, AI that. It don't matter unless
+you're replacing a large part of DevOps
+humans with AI. It doesn't count because
+there's no extra budget. So where is
+this budget coming from? At the end of
+the day, you know, I break it up into
+three groups. And which one are you? A
+co-pilot is none of them. A feature
+alone is none of them. Where do you get
+this budget? The part that Gartner is
+talking about. Replacing humans. It's
+brutal but true. You know, two things
+took off quickly in AI. Um software
+development, we all know cursor at a
+billion and all the rest. We could talk
+about it if we want. But also, if you if
+for some reason you don't follow it, you
+probably do. Contact center blew up.
+Support, you know, the existing
+investors. Zenes reacelerated even
+though it's private. Uh Sierra went from
+nothing to 100 million in one year.
+Duckagon, lots of others. Intercom was
+just here. Finn, they their AI products
+at 100 million right after the the
+company growth slow. We just we use Turk
+chief product officer today. And is it
+because the AI is cool? No. Honestly,
+they're cutting half their support
+teams. You know, Mark Beni off said even
+at Salesforce, they're growing. They're
+adding more headcount in sales and
+marketing, but I think he's I know the
+numbers. I think three or 4 thousand
+folks in support they already replaced
+with AI and their own AI and and um
+support CIA force but that's thousands
+of humans now they they reskilled some
+and moved them into other departments
+and moved around the headcount.
+Salesforce is investing that's a lot of
+change. Okay. And people didn't buy this
+AI support software because it was cool
+or because it was a co-pilot. They
+bought it to get rid of headcount and
+that is going to accelerate next year.
+And there's if you can if you can get
+rid of a hundred million of head there's
+probably room for a couple hundred
+thousand a year of your tool. Okay.
+Two and the the these are different. If
+you truly augment humans dramatically I
+should have put dramatically in the
+color not not augment humans
+dramatically. You know I don't know how
+many folks here use cursor.
+Okay now for similar right. I mean I'm
+more I'm not that that I'm not technical
+enough. I use replet but it makes you so
+much more effective so much more
+effective people if you guys haven't
+used any sort of vibe coding tool or
+cursor or or for non-technical folks
+rapid or lovable or something you might
+not get it like when we even in May when
+we were at SAS annual people you know
+the the idea was oh I'll make my
+developers 30% more productive with
+these tools okay like like okay I I'll
+spend a couple hundred bucks a month
+maybe 500 bucks a month and they'll
+magically be more productive like
+they'll just create more features and
+there's truth to that but it's much more
+than that like if you're deep on cursor
+or other tools you're never going back
+it fundamentally changes the way we
+build software like cursor and all these
+other tools up in level have ingested
+every piece of open source and probably
+a lot of closed source software it they
+have all of it so anything you want to
+build that has been built before can be
+built in mints or moments so know if you
+yesterday And yesterday morning, I built
+a game called um Vaporale.Aa. Try it
+right now. It's super cool. It's got
+cool music. You sell a product that that
+should exist but doesn't. You've got to
+convince prospects to buy something
+that's AI and trendy, but it doesn't
+work. It's kind of a fun little game. I
+mean, I built this in one hour.
+Actually, I built I built it in less.
+And why? Because honestly, it's just
+stealing someone else's code. It's got a
+fresh skin on it. I gave it the right
+prompts and the right ideas, but it's
+already in the code. And so why would
+anyone go back to like writing this code
+from scratch like you had to do a year
+ago?
+You wouldn't, right? So this is
+radically augmenting humans these types
+of tools. I mean, you you know yourself
+even if you don't chat GBT or cloud,
+you're not going back, right? You're not
+going back. So but this is radical
+augmentation
+or three an incredible level of
+productivity. So when we when we talk
+about our stack, we talk about a bunch
+of these, but like and I I don't mean to
+keep going back to the well, but like we
+use Gamma to make all our sales
+collateral instead of Google Slides or
+PowerPoint. Isn't that like a little bit
+better? Like in 5 minutes, it pulls all
+of our data from our CRM and otherwise.
+It knows everything about the prospect
+and it creates a beautiful dynamic
+presentation completely customized to
+them in 5 minutes and we pay 100 bucks a
+month.
+That's like one of the best deals on
+planet Earth. We're not going back. But
+most folks, classics, they're just not
+going that far. They're only making
+their products better. I'm sorry. That
+was enough in the old days. It ain't
+enough. You got This is where the budget
+is. It's not enough for AI to make your
+product better. You got to replace
+humans. Turn us into like cyborgs. I
+guess I'm going to rename section two
+cyborgs. I'm human AI hybrid and Claude
+or Replet. Maybe even Harvey. Arguably,
+we're hybrids, right? We work together.
+and more insane productivity order of
+magnitude more productivity before
+honestly sit down and ask yourself are
+these the tools you built this year or
+do they just make your product nicer
+if you didn't if you spent this whole
+year building AI tools for your BD
+product and you didn't see any
+additional growth I bet you're in the
+fourth bullet and not and not the first
+three
+>> and okay
+another way to think about this
+>> okay
+>> and maybe this is my penultimate point.
+People call this a super cycle. VCs call
+it a super cycle.
+Wh why is this a a super cycle? This is
+an important point. I've talked about
+this a couple times in the 20 VC pod
+that we're going to do live
+>> in about an hour. And but this is the
+this is why you've got to be in market
+with an AI product A and B because
+everyone's in market at the same time.
+So what SAS blow up in 2020 and 2021,
+right? It it wasn't just that for a few
+months, everyone worked at home. Okay?
+It wasn't just that because half the the
+US economy was essential workers. Half
+the f folks still had the same jobs.
+They still went to Starbucks. They still
+went to the hospital. And they still do
+all these things. And that kind of ended
+in a lot of red states by the end of the
+year. Okay? I was split. I don't know
+about you. In 2020, I was split between
+blue and red. Okay? I'm not political,
+okay? Up in the bear, it it was it was
+like a sci-fi post-apocalyptic thing.
+Half the time because of family reasons,
+I lived in Orange County in Southern
+California. It was like they never
+happened.
+People were playing taking school buses.
+They were eating inside in restaurants
+even though it wasn't even allowed. It
+wasn't what happened wasn't just this.
+It was what it drove a thing where
+everyone was in market at once. Every
+enterprise decided they needed these
+tools. Every enterprise there was so
+much change. They needed a contact
+center where you didn't have to come to
+work for a while. They needed e
+signatures. They needed zooming was the
+most crazy one. They needed all that.
+And what happened was instead of the
+traditional five to 6% of prospects
+being in market a month, which is a way
+a lot of marketers think about things,
+right? I'm going to I'm going to try to
+reach everyone in my in my universe, but
+the only 20% are really in my ICP. And
+of that 20%, maybe four to five to 6%
+are in market, right? So if you start
+doing the math, you're lucky if 1% of
+your list of your database actually is
+going to buy this year, right? Because
+you think about how many folks are in
+market, you know, because you know, if
+your tools are working great, it might
+take five or eight years to even decide
+to switch them out. When I was back when
+I was at Adobe and we moved to
+Salesforce, it took Adobe 5 years just
+to move to Salesforce, a big company.
+How long would it take you? They never
+moved off. But if you were going to move
+off, it would be like a decade, right?
+So folks were rarely in market. But in
+2020 21 everyone was in market. Now it's
+happening again with AI and there some
+of it is productivity but a lot of it is
+just it you know this from your
+customers CIOS on down have a massive
+initiative to drive to bring AI
+innovation to the company and have
+massive productivity gains and so
+everyone's in the market but you've got
+to be a need a need and I just kind of
+wrote this up to myself. I need we've
+heard this today so many sessions so
+many folks I've talked today need an AI
+GTM tool. Do they really need it? Will
+their companies die without it? No. But
+they want a Clay or Qualifier Artisan or
+other folks you've talked to. They need
+it. They're finding. They want to bring
+this tool in. I need it. I need AI
+support. We talked about I need AI legal
+review. I need AI coding. I need AI
+security. Not only Rubric and Instagram,
+we had Aikido Security this morning.
+That's that that's blowing up because
+they need this for AI. So,
+are you this are you one of the
+categories of products that buyers feel
+feel right or wrong? Just like we didn't
+maybe we didn't really need all these
+products during 2020 and 21. The world
+with hindsight was more normal than we
+thought. But do they feel like they need
+this product right now? If not, you're
+not gonna get any budget. So how do you
+be I need this for AI? That's what
+you've got to build
+in the first half of next year so you
+don't become obsolete.
+Another
+couple points why some of the best ones
+are blowing up and why others are
+struggling. The best B2B AI
+enables TAM expansion. TAM expansion. So
+a lot of those public companies, they've
+reached TAM saturation often because
+they're only single product or double
+product. They don't really have a suite.
+They can't build as much as Data Dog.
+They can't build 12 products or 20
+products. They've saturated. and they've
+gotten to double digits of their market,
+>> but because the best AI products do so
+much more, they can charge more. So,
+Gamut 100 bucks a seat, which are the
+our PowerPoint AI tool, like 100 bucks
+is not that much money compared to what
+a lot of you charge, but it's a lot more
+than Google Slides or Canva, which are
+basically free. We already pay for G
+Suite. It's free.
+You may already pay for Office, and
+that's free. Can you get everything for
+like N bucks, okay? And we're still
+paying 100 bucks a month. That's a lot
+more tail.
+Cursor at all. Cursor, all all the rest,
+wind surf, all these other tools. It's
+so Think about it for a minute. At
+Lassian got incredibly successful
+selling Jira and other products for five
+bucks a month with discounts to folks at
+companies. Now folks will spend $400, in
+some cases $5,000 on cursor. That's why
+it goes to a billion. It's so much TAM
+expansion. It is so much more than a
+project management tool or a bug
+tracking tool. It is so much more TAM by
+that productivity. And we've almost
+adnauseium here about AISDRs and VDRs.
+These products ain't all cost a lot more
+than one seat of sales of HubSpot or one
+seat of Salesforce or one seat of Zoho
+CRM or pick your I mean do you know any
+any CRM that costs 50k to 100k a year
+for for I'm slightly exaggerating. It's
+not really one seat, but these these
+guys are blowing up because the products
+unlock huge TAM expansion, huge TAM
+expansion by replacing a lot of humans,
+a lot of SDR, and none of these guys
+would be remotely as successful if they
+had to charge like traditional SAS
+companies. You know, if all these folks
+out here had to charge five bucks a
+month like Notion, they wouldn't be
+here.
+Some of them, they couldn't afford to be
+here. They couldn't afford to fly
+anybody out or come out here because of
+TAM expansion. And so this is the way
+the game has changed. And so if your
+co-pilot isn't really letting you charge
+more for your product, it's not because
+your sales team isn't good enough or
+your product marketing, you don't have
+the right jirens and vowels and colors
+on your website or the right or the
+right fonts. It's because you added so
+much value that you unlock so much TAM.
+So much TAM. Some of these guys, their
+software is better than you, but it's
+not like they're so much better at sales
+and marketing than you. They just unlock
+so much time. So, you got to be honest.
+Does your AI product for 2026 enable you
+to charge five times or more than what
+you're charging today. And earn it. Not
+shove it down people's throats, but earn
+it. Earn it. That's that's the unlock
+here. Charging for your co-pilot that no
+one wants. No one want Microsoft learned
+no one wanted to pay an extra 20 bucks a
+month to talk to Word. Okay, that was
+the great innovation. And even Microsoft
+couldn't get people to buy that. Okay?
+It doesn't work. No one wants a a
+mediocre co-pilot.
+And a couple more points.
+I'm talking about 2026 because even
+though listen, you guys all get a P. We
+all get a pass. But even though some
+folks are getting D minuses or C's for
+this year, sorry to be direct. I'm just
+trying to be helpful with love. It's all
+said with love.
+There isn't infinite, but there's still
+time. There's We are early here. I don't
+know if we can all catch cursor. Okay,
+it might be a little late,
+>> but there is time. I picked two
+examples.
+Cleo, Jack Newton, old disaster OG from
+the beginning. Legal tech really. They
+they added fintech into work for him and
+they raised a three billion and then
+they added AI to their product in the
+last year and legal for for legal case
+management five billion. founded in
+2008. 2008 Gal I've talked to too much
+but founded in 2020 didn't really work
+before AI now 100 million and with just
+50 employees
+in those there are a few of you who who
+probably no one here you wouldn't have
+come there are a few of us in the
+broader session that have already lost
+to AI n to so-called AI native folks
+you've lost again woe is woe is us I
+don't think it's true for most folks you
+have time you don't have infinite time
+but it's early it is early what I can
+tell you the the Salesforce team is here
+with Asian Force. What I've learned
+and and uh is that learned it from Mark
+and lots of others is like yeah there's
+a segment of Salesforce
+44 billion of AR whatever they're at
+that needs these tools tomorrow but a
+lot of the traditional industries
+haven't even started right for I'm not
+telling you to go buy public stocks but
+I'd be long on Salesforce even if the
+market wasn't sure this year because
+it's just getting going with this spike
+the demand is just getting going. find
+like don't go and directly compete with
+the folks that already get a couple
+hundred million this year unless you
+know you're on the better engineering
+team than them. But so much of this is
+still early. So many folks are found
+their wind this year. This should be you
+next year. It is not too late. But
+eventually if you don't catch up with
+your agentic product with your native AI
+product, if you don't catch up next
+year, your direct competitors will and
+then you will lose market share. You
+will lose market share.
+The one thing the honest thing to ask
+yourself and if you're founder is maybe
+not even to share with below your
+management team at the end of each year
+you have to be honest did we gain or
+lose market share this year did we gain
+or lose market share this year even if
+you grew 50% this year if your
+competitor grew 100% and you know you're
+at the same sorry got normal you lost
+this year okay did you gain market share
+every year that's important but in the
+world of AI it's even more important
+because it can sneak up on you. Be
+honest. There was one startup I worked
+with that has just crossed 100 million,
+pretty good year, pretty good AI
+product. Couple quarters ago, they
+started deleting the competition slide
+from their board deck where it first
+first time it was a hidden slide, you
+know, went from shown to hidden slides
+and then it disappeared. Why? They
+weren't gaining share anymore. Okay, now
+I kind of gave the co a pass. I I I
+brought it up between me. I wouldn't
+bring it up in front of the team. You
+got if you're not honest about gaining
+share, you won't gain it next year.
+You'll lose it in today's world. So, so
+ask yourself honestly. Figure out who
+your direct competition is. Find a way
+to track your share. Figure out their
+era. Figure out their growth. Go on the
+internet. Figure out every metric you
+can find out number of customers. Scrape
+it. Use tools. Even if you have to use
+uh web traffic as a a crummy proxy, but
+make sure in the age of AI you are
+gaining share. And don't hide behind it
+if you're not.
+Okay, maybe a couple other paradoxes and
+then we really will wrap.
+This is just a trend to think about as
+we for 2026. It's complicated.
+Leaner teams are real. Now, Gamma just
+said I'm not I'm going to gamble, but I
+just noticed the last you know two
+billion valuation 100 million ARR 50
+employees. uh lovable and replet both
+under 100 employees per I think it it's
+a little bit confusing but whether
+they're under 100 anymore they were
+under 100 they'll be under 300 the these
+are very lean teams but some of them
+have 100% inbound in dramatic demand and
+no sales team okay so if you have no
+marketing costs and no need for a sales
+team temporarily you can and you have
+one product you can actually be pretty
+lean right one product no sales team no
+marketing expense it is easier to be a
+little lean than a traditional B2B
+company, but everyone is getting leaner.
+And this isn't about layoffs um or uh or
+just getting more profitable because as
+we just talked about with page your duty
+and slow growth, just being profitable
+isn't enough. It it's not going to give,
+you know, selling for one times your
+revenue is not worth it. You've you've
+all worked too hard to sell your
+companies for one times revenue. So,
+this isn't just about getting fit. 2022
+and 2023 was about getting fit because
+now you can say this without getting
+your head cut off. We were way too we
+were we had way too many employees
+running around in 2021 doing nothing. We
+had too way too many marketers spending
+90 days doing an infographic. Okay, we
+just were everyone was bloated. Okay,
+everyone was bloated. There's a million
+things going on now. Some of it is
+replacing humans with AI. Some of it is
+is other things. But we're just all
+going to get leaner and leaner and
+leaner in terms of employees
+air per employee. It's not going to
+reverse itself. There is no trend to
+reverse itself. So the new guys are
+getting more efficient, but everybody is
+essentially getting much more efficient.
+What there's a little too much chart
+going on on the right. It's showing up
+more in early stage companies and latest
+stage companies where there's more
+bloat, but it's still happening.
+And then just briefly, I don't want to
+go too much into this um because we've
+had a lot of time. I guess I didn't need
+the whole hour, but
+a weird thing being this just this turn
+on the right. I've talked a little bit
+about it before, but
+it's something important to not be to
+not accidentally be arrogant about or
+pat yourself on the back. Yes. Are a lot
+of AI companies burning a lot on tokens,
+burning a lot on inference, burning a
+lot on AI, yes, but but their burn
+multiples are lower than traditional
+companies because they're growing so
+quickly. Now, you've got to keep that
+that wheel going. But if oh my god
+you're like oh you can make fun of this
+AI strap. Those guys burn a million
+bucks a month on inferris. Okay that's
+not sustainable. Their margins are 40%.
+Yeah but if they added 50 million of ARR
+it's wildly efficient.
+Okay if they slow to 10% you get crushed
+but par another almost paradox. The
+fastest growing AI companies are burning
+more A and their gross margins are lower
+but their burn multiples are also lower
+because they're adding so much revenue.
+It's worth it. It's worth it to win this
+AI war at least for the next couple
+years. And here's two versions of this.
+Here's HubSpot and Salesforce.
+Obviously, probably every single person
+in this room uses HubSpot or Salesforce,
+so I picked them. Since 2021, this is
+their efficiency ratio, their their
+revenue per employee. HubSpot up 2.6x.
+Even Salesforce up 2.2x. Microsoft, old
+Microsoft has passed peak employee is
+coming down. Not only is Microsoft's
+efficiency going down, it's absolute
+number of headcount is going down and
+trending down. I mean, it can't go down
+to zero. I mean, Microsoft's pretty big
+company. Everyone is, it's not just the
+startups. It's not just gamas and
+cursors. Everyone is getting radically
+more efficient. And what that all means,
+how you all do it, I don't know. But
+this is not again, this is not about
+layoffs, and it's not just about uh uh
+agents. This is just how we're building
+software today. We're building it
+radically more efficient. And honestly,
+the the toughest thing, the most honest
+thing I can tell you for 2026 is if you
+go into 2026 and you still have folks on
+your team, and I still see this at
+startups and you want them to double
+next year and they need to triple their
+team, move on from that executive.
+If they want to double next year and
+they need to increase their team 50%.
+Sounds good to me. Okay. I'm still in
+too many conversations where the excuses
+I hear from CRO, from CPOS, from CMOs is
+I just don't have enough headcount. Like
+these are companies that are not that
+efficient. They're not running out of
+money. They're not that efficient. And
+why aren't you growing quicker? Well, I
+need another 100 people. I need another
+200 people. I need another 40 product
+managers and another another 30 people
+on the marketing team. Just kindly thank
+them. Give them a package and move on
+for them. It's not the world. That is
+the past. They're still living in the
+past. So my summary and then we will
+break. The growth is there. Gardner says
+it's going to be record
+software spend next year. almost record
+total it record software spend and
+reaceleration it's growing 50% faster
+next year software spend that is an epic
+amount of dollars to go capture hundreds
+of billions of dollars going into
+software there's hundreds of billions of
+new revenue can't you get a little bit
+of a hundred billion just you don't need
+all hundred billion you just need like
+some millions
+it really is around you could so the
+dollars are there this should this is
+the best of times
+But not not for not for all of us. It
+was the best of times for almost
+everybody in 20 and 20 21 almost
+everybody. It really was. You just
+needed a CRM, a call center, a a support
+desk, an e signature tool, and you were
+a genius. It's only for the beneficiary.
+So guys, in 2026, B1, thank you.
+Hey Sasser, imagine having agents for
+every support tag. One that triages
+tickets, another that catches
+duplicates, one that spots churn. That'd
+be pretty mainly, right? Happy Fox just
+made it real with autopilot. These
+pre-built AI agents deploy in about 60
+seconds and run for as low as 2 cents
+per successful action. All of it sits
+inside the Happy Omni Channel AI first,
+support stack, chatbot, co-pilot, and
+autopilot working as one. Check them out
+at happyox.com/aster.

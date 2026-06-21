@@ -33,11 +33,18 @@ def fetch_and_save(expert, url):
     if not vid:
         print(f"Skipping invalid URL: {url}")
         return
+    # use instance API (supports modern package versions)
+    api = YouTubeTranscriptApi()
+    transcript = None
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(vid)
-    except Exception as e:
-        print(f"Could not fetch transcript for {vid}: {e}")
-        return
+        transcript = api.fetch(vid)
+    except Exception:
+        try:
+            tlist = api.list(vid)
+            transcript = tlist.find_transcript(["en"]).fetch()
+        except Exception as e:
+            print(f"Could not fetch transcript for {vid}: {e}")
+            return
     # join text
     text = "\n".join([seg.get("text", "") for seg in transcript])
     fname = f"{expert.replace(' ', '_')}-{vid}.txt"
@@ -48,6 +55,13 @@ def fetch_and_save(expert, url):
         "source_url": url,
         "fetched_at": datetime.utcnow().isoformat() + "Z",
     }
+    parts = []
+    for seg in transcript:
+        if isinstance(seg, dict):
+            parts.append(seg.get("text", ""))
+        else:
+            parts.append(getattr(seg, "text", str(seg)))
+    text = "\n".join(parts)
     with open(path, "w", encoding="utf-8") as f:
         f.write("# METADATA\n")
         f.write(json.dumps(meta, ensure_ascii=False, indent=2))

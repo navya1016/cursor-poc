@@ -1,0 +1,415 @@
+# METADATA
+{
+  "expert": "Brian Dean",
+  "video_id": "aJFK9k5i1ew",
+  "query": "Brian Dean YouTube SEO"
+}
+
+# TRANSCRIPT
+- In this video, I'm gonna
+show you my five-step process
+for ranking number one in YouTube.
+I recently used this exact
+method to rank in the top three
+in YouTube for the keyword SEO.
+I'm Brian Dean, the founder of Backlinko,
+the place where marketers
+turn for high rankings
+and more traffic.
+And today, you're gonna learn
+the five most influential
+video SEO ranking factors
+to get your videos
+to the top of YouTube fast.
+Keep watching.
+A few years ago, my YouTube
+channel was struggling.
+I consistently created high quality videos
+that provided a ton of value.
+But when I published my videos, crickets.
+(cricket sounds)
+Needless to say, I was frustrated.
+I knew that video was a powerful way
+to grow my online business,
+but I learned the hard
+way that video only works
+if people actually watch your videos.
+And no, your mom watching
+your videos doesn't count.
+Trust me.
+Hey mom, I just published
+a new video on YouTube.
+Can you watch it for me?
+Thanks mom, you're the best.
+Flash forward to today and
+my videos consistently get
+tens of thousands of views
+and hundreds of people
+subscribe to my channel
+every single month.
+My secret?
+I learned everything I
+could about video SEO.
+Unfortunately, most of the
+advice that I initially read
+about ranking in YouTube didn't work.
+You know the advice I'm talking about.
+Put your keyword in
+your video description.
+Put keywords in your video filename.
+Write 20 tags for every video.
+Sure this stuff can help,
+but it's not gonna rocket your video
+to the top of Google or YouTube.
+Why?
+Because everyone on YouTube
+is doing the exact same thing.
+After trying all the
+generic advice that I read
+and getting nowhere,
+I decided to run a bunch of experiments
+and that's when I learned
+what really works.
+Specifically, I discovered YouTube's
+five most important ranking factors
+and these are ranking factors
+that very few people know about.
+Once I applied these ranking
+factors to my videos,
+my rankings shot to the roof.
+I started ranking for
+super competitive keywords
+like SEO, link building,
+how to get traffic and more.
+And now it's time for me to share
+these five ranking factors with you
+and show you exactly how to use them
+to rank your videos in YouTube.
+Let's start with step number one
+which is to create and
+publish long videos.
+You may have noticed that longer videos
+tend to perform better in YouTube.
+Why?
+Well, YouTube's most
+important ranking factor
+is your video's total watch time.
+As you probably know, the more
+of your video people watch,
+the better it tends to rank.
+That's called audience retention
+which is an important ranking factor.
+Even though audience
+retention is important,
+it's not nearly as
+important as your video's
+total watch time.
+That's because YouTube
+wants to promote videos
+that keep people on YouTube
+for a long period of time.
+So the more total minutes
+people watch of your video,
+the more YouTube will wanna
+rank it in the search results.
+For example, let's say
+that you just published
+two different videos.
+Video one is two minutes long
+and video two is 10 minutes long.
+And let's say that each
+video gets 1,000 views
+and the audience retention for both videos
+is exactly the same, 50%.
+That means that on average,
+people watch half of your video.
+The total watch time
+for the two-minute video
+would be 1,000 minutes.
+But for the longer video,
+that video's watch time
+will be 5,000 minutes.
+That means that video number
+two will have five times
+the watch time of video number one,
+which means that it'll likely
+outrank video number one.
+That's the power of
+publishing longer videos.
+In fact, my video that ranks
+in the top three for SEO
+is nearly 10 minutes which
+is significantly longer
+than most videos on YouTube.
+Because it's longer,
+my video accumulates more total watch time
+than my competitors.
+And I'm able to rank above videos
+with significantly more views than mine.
+Okay, let's move on to step number two
+which is to master the hook.
+As I said, longer videos
+tend to rank better
+because they accumulate
+more total watch time.
+But there's one big
+problem with this approach.
+You have to keep someone's
+attention on the internet.
+Fortunately, my experiments have taught me
+that if you can hook someone
+in the first 15 seconds of your video,
+you've hooked them for good.
+In fact, YouTube recommends that you focus
+on the first 15 seconds of your video
+to maximize watch time.
+The question is, how do you hook people
+in the first 15 seconds of your video?
+Start your video off with the PPP formula.
+The PPP stands for
+Preview, Proof, Preview.
+Here's exactly how it works.
+First, preview what
+your video is all about.
+When I first started creating videos,
+my intros would go on and on about
+why my video's topic was important
+and these long-winded intros
+would make people click away.
+Today, I cut out the fluff
+and tell them exactly what to expect.
+For example, let's say
+that your video outlines
+10 paleo diet tips.
+You wanna start off your video saying,
+"In this video, you're gonna learn
+"10 of my favorite paleo diet tips."
+That's it.
+Next, it's time for the proof.
+Here is proof that you can deliver.
+You can mention that
+you've already accomplished
+what the viewer wants,
+that you have lots of
+experience in your field
+or that you've researched
+a ton about your topic.
+For example, you could say,
+"These are the same tips I used
+"to gain five pounds
+of muscle in 60 days."
+Finally, hit them with the preview again.
+Here's where you reiterate
+what your video is about.
+Now you obviously don't wanna just repeat
+what you said in the beginning.
+Instead, mention something
+specific from your video.
+You can mention the number of tips,
+a detail from a case study
+or that you're gonna share
+something completely new.
+This will make your viewers curious
+and want to keep watching.
+For example, you could say,
+"And today, you're gonna
+learn about the so-called
+"healthy paleo diet food
+that's actually bad for you."
+Next up, we have putting your
+exact keyword in your title.
+There's no question
+that Google and YouTube
+are getting smarter everyday,
+which means the days of
+keyword stuff in your video
+to the top of YouTube are long gone.
+That said, Google and YouTube
+both use your video's title
+to understand what your video is all about
+so make sure to include
+your exact keyword once
+in your title, preferably in
+the beginning of your title.
+For example, I created a
+video that I wanted to rank
+for the keyword link building
+so I made sure to include my
+exact keyword link building
+in the beginning of the title
+and that helped it rank in the top three
+for my target keyword.
+Okay, now it's time for
+ranking factor number four
+which is to say your
+keyword in your video.
+When I first got started with video SEO,
+I'd go back to old videos and
+optimize them around keywords
+that I wanted to rank for
+and it very rarely works.
+That's because Google and YouTube
+can now listen to your videos
+even without a transcript.
+For example, let's say
+that just published a video
+about healthy desserts.
+Then a few weeks later,
+you realized that the
+keyword healthy desserts
+is too competitive.
+So you go back and optimize
+it around a different keyword
+like low carb desserts.
+Now this sounds smart,
+but it's something that doesn't
+work as well as it used to.
+Why?
+Even though the keyword low carb desserts
+may be in your title,
+description and tags,
+you never said that
+keyword once in the video.
+YouTube knows this and it looks fishy.
+To YouTube, your video is
+about healthy desserts,
+but all of your on-page metadata says
+it's about low carb desserts
+so they won't rank you for either keyword.
+That's why I always make sure to actually
+say my target keyword in every video.
+For example, in my video about SEO,
+I made sure to say the
+word SEO a few times.
+Simple yet effective.
+Last up, we have user interaction signals.
+YouTube wants to see
+that people are actually
+interacting with your video.
+The more people watch, like, subscribe
+and comment on your video,
+the higher your video will
+rank in YouTube search results.
+Now the strategies that
+I've showed you so far
+will help you naturally get more
+of these user interaction signals.
+But there are two simple tactics
+that I use on every video
+to increase my video's
+user interaction signals.
+First, I add an annotation
+that asks people
+to like my video.
+After a lot of experimenting,
+I have found that this simple annotation
+significantly boosts the number of likes
+that my videos receive.
+At the end of my video,
+I also ask people to
+subscribe and comment,
+which also increases
+the amount of my videos'
+user interaction signals.
+I was originally gonna
+end the video right here,
+but I decided to throw in
+a quick bonus tip for you
+which is to optimize
+for click-through rate.
+When someone searches
+for something in YouTube,
+YouTube pays very close attention
+to what video they click on.
+For example, let's say
+you rank number five
+for your target keyword.
+As you probably know,
+videos ranking number one through four
+get the vast majority of clicks.
+But for some reason,
+lots of people are clicking on your video
+in the search results.
+What do you think YouTube
+will think about your video?
+That it's a great result for that keyword
+and they'll give your
+video a rankings boost
+to make it easier for people to find.
+So how do you maximize
+your click-through rate?
+Well, YouTube displays three
+main pieces of information
+in the search results,
+your title, your thumbnail
+and a snippet of your description.
+Here's how to quickly optimize all three
+for click-through rate.
+The key with your thumbnail
+is simply that it stands out.
+That means that you wanna
+create a custom thumbnail
+that looks different than the other videos
+that are on the first page.
+For example, my video has a
+completely different design
+and color scheme than my competition.
+For your title, like I mentioned before,
+you wanna include your
+target keyword once.
+Other than that, your goal with your title
+should be to maximize
+your click-through rate.
+As you can see,
+my video title is emotionally compelling.
+I also include the current year
+so people know that the
+content is still relevant.
+Finally, you wanna write
+something compelling
+in the first few lines
+of your description.
+Most people put a link to
+their website or channel here
+and it's a huge mistake.
+Nothing looks less enticing to click on
+than a link to someone's website.
+Instead, write a sentence or two
+that includes your target
+keyword in a compelling way.
+For example, in my SEO
+video my first sentence is,
+"If you wanna rank in Google today,
+"there's a new SEO ranking
+factor to pay attention to."
+And this attention-grabbing
+line gets more people
+to click on my result.
+If you liked this video,
+make sure to subscribe to my
+YouTube channel right now.
+Just click on the subscribe
+button right here.
+Also, if you want exclusive
+SEO and traffic techniques
+that I only share with subscribers,
+head over to backlinko.com and
+sign up for the newsletter.
+It's free.
+Now I wanna turn it over to you.
+Which of the five ranking
+signals from this video
+are you gonna try first?
+Are you gonna try to create longer videos
+or maybe you're gonna start
+optimizing your videos
+for click-through rate?
+Let me know by leaving a
+comment below right now.
+Okay, the stage is yours.
+All right, I'll do it for real this time.
+Yeah, very, very slight.
+Do it like what up?
+I don't know.
+PPP.
+Your thumbnail.
