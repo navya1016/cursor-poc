@@ -1,44 +1,40 @@
-# Reddit Marketing for B2B SaaS
+# YouTube Content Strategy for B2B SaaS
 
 ## Objective
-Research how leading B2B SaaS marketers use Reddit and community-driven distribution.
+Research how top creators and practitioners use YouTube to grow B2B SaaS brands and build a reproducible content pipeline.
 
 ## Why This Topic
-Reddit is increasingly important for:
+YouTube is a high-leverage channel for B2B SaaS when used to educate buyers, showcase product value, and scale creator-led marketing.
 
-- Product discovery
-- Community engagement
-- Organic demand generation
+## Chosen Experts (sample — full list in `research/sources.md`)
+1. Jason Lemkin (SaaStr) — SaaS founder/VC, talks growth and scaling
+2. Hiten Shah — SaaS product and growth practitioner
+3. Nathan Latka — SaaS interviews and monetization
+4. Rand Fishkin — audience-driven marketing and content strategy
+5. Brian Dean — video SEO and content promotion
+6. Tim Schmoyer — YouTube growth strategy for creators
+7. Roberto Blake — video growth and creator monetization
+8. Andrew Chen — growth at startups, YouTube appearances
+9. Noah Kagan — product marketing and content experiments
+10. Justin Jackson — indie SaaS and content-first growth
 
-## Experts Studied
-1. Amanda Natividad
-2. Ross Simmonds
-3. Dave Gerhardt
-4. Gaetano DiNardi
-5. Tom Orbach
-6. Chris Walker
-7. Kieran Flanagan
-8. Kevin Indig
-9. Lenny Rachitsky
-10. Rand Fishkin
-
-## Materials Collected
-- 100+ LinkedIn posts
-- 40+ YouTube transcripts
-- Podcast appearances
-- Community discussions
+## Materials to Collect
+- YouTube transcripts (via API / transcript libraries)
+- LinkedIn posts and threads from the same experts (manual or scraped)
+- Other resources (podcasts, blog posts, talks)
 
 ## Outcome
-This repository will later be used to build a Reddit Marketing Playbook for B2B SaaS companies.
+This repository will hold collected materials and scripts to fetch, ingest, and analyze transcripts and posts to enable building a YouTube content playbook.
 
 ## Structure
 - `research/`
-  - `sources.md`
-  - `linkedin-posts/`
-  - `youtube-transcripts/`
-  - `other/`
+  - `sources.md` — experts, links, annotations
+  - `linkedin-posts/` — posts organized by author
+  - `youtube-transcripts/` — transcripts organized by video
+  - `other/` — additional materials
   - `analysis/`
-- `scripts/`
+- `scripts/` — collection and ingestion helpers
+- `requirements.txt` — Python dependencies for collection and ingestion
 
 ## Notes
-This repository contains the initial research skeleton and sample content files. The next phase is manual collection of posts, transcripts, podcasts, and Reddit threads, followed by analysis and playbook creation.
+Scripts use `youtube-transcript-api` and `duckdb` locally. Optional Supabase integration is available via environment variables (`SUPABASE_URL`, `SUPABASE_KEY`).
