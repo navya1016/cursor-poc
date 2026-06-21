@@ -1,0 +1,16 @@
+# METADATA
+{
+  "author": "Amanda Natividad",
+  "post_id": "amandanat_example",
+  "source_url": "https://www.linkedin.com/posts/amandanat_example",
+  "date_published": "2026-06-01",
+  "topic": "Why founders should participate in niche communities",
+  "collected_at": "2026-06-21T00:00:00Z"
+}
+
+# POST
+- Don't immediately promote.
+- Build credibility first.
+- Answer questions consistently.
+
+Amanda often recommends using community signals to inform product decisions and content planning for B2B audiences.
