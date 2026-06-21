@@ -1,9 +1,0 @@
-git add reddit-marketing-b2b-saas/research/linkedin-posts-formatted/amanda_natividad_amandanat_example.txt
-
-git commit -m "Add formatted LinkedIn post file for Amanda Natividad"
-
-git add reddit-marketing-b2b-saas/research/linkedin-posts-formatted/ross_simmonds_rosssimmonds_example.txt
-
-git commit -m "Add formatted LinkedIn post file for Ross Simmonds"
-
-git push
