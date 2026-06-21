@@ -1,3 +1,50 @@
+# YouTube Content Strategy — Sources
+
+This file lists the 10 experts chosen for the "YouTube Content Strategy for B2B SaaS" research project, with links and short annotations. Use this as the canonical sources list for the research folder.
+
+1. Jason Lemkin (SaaStr)
+   - Link: https://www.linkedin.com/in/jasonlemkin/
+   - Notes: SaaS scaling, CEO interviews; SaaStr channel has many talks with founders.
+
+2. Hiten Shah
+   - Link: https://www.hiten.com/
+   - Notes: Product and growth experiments; frequent LinkedIn posts and podcast interviews.
+
+3. Nathan Latka
+   - Link: https://latka.com/
+   - Notes: Host of The Top Entrepreneurs podcast; many SaaS interviews on YouTube.
+
+4. Rand Fishkin
+   - Link: https://sparktoro.com/
+   - Notes: Audience-first marketing and SEO; frequent long-form videos and talks.
+
+5. Brian Dean
+   - Link: https://backlinko.com/
+   - Notes: Video SEO and content promotion strategies.
+
+6. Tim Schmoyer
+   - Link: https://creatoracademy.tubefilter.com/
+   - Notes: YouTube channel growth specialist.
+
+7. Roberto Blake
+   - Link: https://robertoblake.com/
+   - Notes: Creator monetization and video strategy.
+
+8. Andrew Chen
+   - Link: https://andrewchen.com/
+   - Notes: Growth essays and talks about virality and distribution.
+
+9. Noah Kagan
+   - Link: https://okdork.com/
+   - Notes: Product marketing and content experimentation.
+
+10. Justin Jackson
+    - Link: https://transistor.fm/
+    - Notes: Indie SaaS growth and content-first strategies.
+
+---
+
+Next steps: populate `research/linkedin-posts/` per author, collect YouTube video URLs for each expert, and run `scripts/fetch_youtube_transcripts.py` to gather transcripts into `research/youtube-transcripts/`.
 # Sources
 
 ## Amanda Natividad
