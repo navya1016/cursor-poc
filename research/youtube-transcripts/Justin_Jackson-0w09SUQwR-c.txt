@@ -1,0 +1,785 @@
+# METADATA
+{
+  "expert": "Justin Jackson",
+  "video_id": "0w09SUQwR-c",
+  "query": "Justin Jackson SaaS podcast"
+}
+
+# TRANSCRIPT
+[Music]
+welcome to this week's episode of micro
+Kampf on air I am your host Rob walling
+as always every Wednesday we live stream
+for about 30 minutes and cover topics
+related to building growing startups
+that are ambitious but fit within the
+goals and you know having a normal life
+not burning yourself out and finding
+freedom and purpose and relationships so
+today Justin Jackson will joining me in
+just a couple minutes but first I want
+to mention the micro connect exclusive
+meet aways and what these are is an
+event we're having this Friday at I
+think it's 1:00 Eastern and if you're in
+micro conf connect or you received an
+email from producer sander and my team
+in essence meat away is an app that
+allows for one-on-one chats and it it
+kind of spins through a bunch of people
+over the course of you know however many
+minutes we said before I believe the
+chats are about 14 minutes and the idea
+here is just to talk with someone maybe
+someone you already know maybe it's
+someone new and you do get to specify
+some preferences and say some things
+about yourself and and then it just
+rolls and I think it's gonna run for
+about 90 minutes and 14 minutes per chat
+and you can kind of you know come and go
+and be paired up with folks and have
+interesting conversations with
+interesting startup founders so that's
+micro Grom connect meet aways just to
+come in this Friday if you miss an
+episode if you ever miss an episode of
+micro golf on air we have a podcast and
+you can search that in any pod catcher
+and listen to them a synchronously as
+always special thanks to Basecamp and
+stripe their headline partners for the
+year and we think them for making making
+what we do just a little bit easier so
+today I'm gonna bring Justin Jackson
+into the feed and he and I are gonna be
+digging into recession resistant
+bootstrap SAS plus talked about the myth
+question mark of personal brand branding
+when growing or SAS company Justin
+Jackson if you're not familiar with him
+he's the co-founder of transistor which
+is a podcast host and he is host of the
+build your SAS podcast mr. Jackson
+served thank you so much for joining me
+yeah it's good to be here this is fun
+yeah I
+I like the your your triad of purpose
+freedom and relationships is that right
+yeah yep I remember you mentioning that
+I heard it on a I was on a flight and I
+just remember really resonating and
+going because I was kind of struggling
+with maybe my business wasn't doing very
+well at the time or something and I was
+like what am I doing this for like what
+is what was the purpose and then you
+said those three things and they
+resonated so strongly with me I've kind
+of adopted them myself so whenever I'm
+thinking about like what do I want to do
+it's like okay does this give me purpose
+does it help me with you know connecting
+with people which I really like and does
+it give me more freedom and yeah yeah
+it's been a it's been a nice filter for
+deciding what I'm gonna do
+yeah it's good to hear and that's where
+I use it for as well right as I found in
+my life when I don't have all three of
+those things that I become unhappy over
+time if I before I had freedom you know
+of the entrepreneurial things that we do
+and was working a day gentleman it was
+like big struggle to stay happy but then
+I got it I mean I achieved freedom and I
+was working like ten hours a week you
+know I had a bunch of little sigh like I
+kind of did the four hour work week type
+thing for about ten months and I didn't
+really have a purpose I got really
+really bored so it's you know it's it
+kind of cuts all three ways for folks
+listening if you have questions for
+either on these topics or just general
+questions for Justin or I feel free to
+put them in the microcon on our channel
+in micro comm connect and we'll just
+pick those out any times producers and
+we'll bring them to uh to my attention
+sorry Justin we you're gonna say
+something else about that on the freedom
+purpose relationships uh I think one
+thing that's been interesting for John
+and I now is when you're building a
+company at the beginning your purpose is
+just to get that initial bit of freedom
+to be able to you know okay I just want
+this to pay my bills and I distinctly
+remember getting to I think we were I
+think transistor was paying me around
+five grand a month and almost like as
+soon as we hit that bar
+and it was just enough to live on I was
+like good you know and then once we hit
+this we had this mr our number in mind
+and then once we hit that I think our
+struggle since then has been what do we
+do now
+like what's the purpose once we hit this
+and so we've had lots of conversations
+about that of you know the purpose piece
+I think changes at the beginning it's
+like you're just or there's an interplay
+between purpose and freedom and you know
+there was a kind of a floor that we
+needed to get to and now it's like okay
+what's the next step and to be honest it
+was it's been a little bit tricky to to
+figure that out part of that in kind of
+your own like the answer is going to be
+a little bit different for John and me I
+think and then also trying to answer
+that for the company overall did you
+ever experience that like feeling like
+you hit something and then okay
+absolutely
+yeah yeah you how did he get over it it
+was well first time
+fiber connection to my house yeah this
+is well we're dealing all right coming
+back yeah I can hear you okay break up
+too much yeah I I've always had trouble
+because I wouldn't realize that I was
+hitting these kind of plateaus not even
+plateau to those things maybe it's dead
+you know Ella completely $40.00 or maybe
+that's done you know throw me I mean
+healthy I would say he doesn't really
+dull topic for the money we're almost
+like his mission is to like build a
+great company that he wanted to work for
+an employer other people and kind of
+help the world so I think you're right
+it's gonna be it's gonna be different
+for everyone but I do think there are
+yeah of kind of your mission that you
+develop and that's why you know mission
+vision values like when we hear that as
+bootstrappers we just roll our eyes
+right because it's like that's what big
+companies do and it's at a
+certain point it's not at a certain
+point that's it's the reason you're
+doing it once you're banking you know
+let's say you're at SAS let's make it I
+haven't hit a I was doing 25 grand a
+month and I had no employees so I was
+just banking more money than I had ever
+you know my first job I made like
+$35,000 a year like I was making in a
+month what I had made you know my first
+chef so what do you do then I had tons
+of freedom I had more money than you
+know than I needed at the time and so
+that was it that was what's next you
+know how have you what's your process
+been and are you getting you feel like
+you're getting close to it well I mean I
+think it's been nice to like recognize
+it
+what yeah recognize it and the other
+thing I've been doing is trying to talk
+to people who have had some success
+because it really is two camps like I've
+I've been a hungry entrepreneur for a
+long time and you know I had good years
+and I had bad years and then and my two
+two years before
+transistor were really hard bad years
+and I remember you emailed me during
+those times which happened yeah and I
+was just you know I was struggling
+emotionally I was really depressed I had
+a bunch of personal issues that were
+affecting me and that ended up affecting
+the business and so I just can remember
+there was part of me that was just like
+desperate to you know get some revenue
+get some money in the bank and then that
+was hitting that first 5k it was like
+okay like there's this consistent 5k
+coming into my account every month and
+that really helped me relax and then the
+next stage was like okay now I need to
+get back to like a good family income
+and so we're building up to that and
+then we probably hit that in August of
+2008 and so then I was like okay good
+and then we had this number in mind of
+this would be a good monthly number for
+two of us running this business if we
+hit this and then we hit that and so at
+that point I was like I just like again
+I I I had never seen that much money
+before and the the and it was different
+it was different than working a job as a
+product manager it was different than
+you know when I was focused mostly on
+marketing for developers like doing all
+of these launch cycles and always hoping
+for the next launch to provide income
+and so yeah I've reached out to Taylor
+OTT well and Adam Lavin and some of my
+other friends and actually hat and a DA
+th and they the the funny thing that
+they all said was their first comment
+all three of them independently was well
+Justin you're not rich yet like you
+still need to save up some money you
+haven't been putting away money for your
+retirement
+you haven't been investing
+you need to do that next and so that
+gave me some idea of like okay there's
+still a purpose here like I still need
+to provide a nice backup for my family
+and so that's been the focus now that's
+great and it's a great focus yeah yeah
+imagine imagine like completely
+populating you know your kids college
+funds like for our you have four kids
+right it's like what if all to me that
+became a goal at one point actually I
+had this portfolio small products and I
+was making 120 150 K a year in
+California owned a house and it was it
+was a good income in Fresno and I asked
+sherry one time I was like you know but
+again I was working ten hours a week and
+I was like what would we do with more
+money like do we need one money should I
+work harder and cuz I started feeling
+guilty right because I wasn't working
+that much and she said with more money
+we could and she listed off all these
+things she's like we could get an
+apartment at the beach which would be
+groundbreaking for our family because we
+really didn't like you know living in
+Fresno was a tough it was a tough slog
+yeah she said we could be way more
+generous both financially and with you
+know with time we could fill the kids
+college fund we could make sure this and
+that like and and we had you know at the
+time I had saved up if you know probably
+I don't know a couple hundred thousand
+for in retirement accounts and and our
+personal accounts were just average you
+know whatever mm-hmm but that became my
+purpose that's actually why I got off my
+Duff and bought hit tail the whole
+purpose of hotel was I was like I want
+to see a can I do this challenge myself
+to this and be to reap the rewards from
+it so that became my purpose but again I
+wouldn't tell you that that should be
+yours right because as we're saying you
+have to kind of figure your own out but
+that vision of a you know I have a fully
+funded college fund for my kids was like
+a pretty pretty cool idea oh yeah yeah I
+mean that that has been again I think
+and I think from talking to other folks
+I think a lot of entrepreneurs can look
+a lot of my friends are main street
+entrepreneurs and you know they run
+restaurants and coffee shops and retail
+shops and if we're in that group
+everybody is just know you know whatever
+they make they spend that money it's
+it's a very kind of hungry
+entrepreneurial cycle and
+you know being so long and and and
+actually have a business were like whoa
+this is this is like month I'm more
+relaxed instead of being more wound up
+I'm I'm sleeping better instead of you
+know staying up all night I'm I just
+feel better so that's the beauty of her
+I will say the beauty of SAS is that on
+the first of each month I've said this
+before I had a bunch of one-time sales
+business sale businesses and the first
+of each month I had zero dollars in
+revenue with SAS yeah it's pretty much
+the same amount you know - churn or
+whatever as you did last month it's
+ incredible and that's why we do
+this that's why it is the golden ticket
+that's why so much venture money has
+gone into this because the business
+model you know isn't is incredible I do
+want to kind of redirect our
+conversation into the so we don't have
+false advertising claims of people
+saying you never talked about recession
+resistant and and personal branding
+related to SAS so recession so I posit
+that there are different causes of
+recessions right there was a 1990
+recession that coat was caused by oil
+prices going up and there had been a
+bunch of growth stimulus and then
+housing crashed there the 2001 was calm
+crash 2008 was a housing in financial
+system crash and 2020 is a pandemic so
+each of these different causes impacts
+things differently right so like if I
+ran if I run a today if I ran software
+that catered to schools you might say
+well school having software having
+assassinators to schools is a is a
+recession resistant business typically
+right yeah because schools plan a year
+out and they have this that much budget
+and they're not gonna cancel on you
+however this time it's different because
+this recession was caused by this
+unprecedented pandemic and travel was
+locked down in schools are locked down
+so
+I want to kick it off with that and then
+I'd love to hear you know more thoughts
+from you on on recession resistance yeah
+I mean what we were just talking about
+is in some ways pertains to this because
+there's there's a I have a struggle
+because I have some ideas unlike what
+our recession-proof business is or at
+least what businesses seem to be doing
+well right now but there is this duality
+to this which is it's difficult to get
+something in motion once something like
+this tits
+so transistors doing well right now but
+we were already in motion
+if we had to like fire this up during
+the recession like right when the
+recession hit it's just so much more
+difficult in the same way of like what's
+the best way to prepare for a recession
+you know Warren Buffett just gave his
+his annual address and normally when the
+markets down he's like bye bye-bye
+and he's like well I'm basically just
+taking all my cash and I'm just gonna
+stay back hang out with him for me yeah
+just hang out a bit and so you know if
+Warren is thinking that that's what I
+call just first-name basis Warren yeah
+you know you know weren't thinking that
+that it's probably prudent for most of
+us to have some cash but again that's
+not something that you can just click on
+and so I think part of what I've been
+telling people is if you know if you are
+if you weren't prepared if your business
+isn't equipped for this if you don't
+have a bunch of cash you are just going
+to have to fight the best you can and
+you might have to be really gritty and
+you know it's not gonna be easy but you
+should be thinking the next time this
+happens I want to be prepared and for
+for me that's meant saving up at least
+six months worth of expenses and really
+it sounds like a year or two years is
+better right now and and also
+understanding that
+I think I think it's possible to survive
+a recession as a gritty entrepreneur but
+it's going to be difficult to quickly
+build a business that truly takes
+advantage of some of the characteristics
+we're seeing right I don't know what you
+think yeah especially with sass cuz it
+just takes so long right I mean maybe
+there are there are things if you could
+build an info product of course a book a
+lot quicker then track the ground and
+and cater to people who are perhaps
+getting late the developers getting laid
+off you know could create info for them
+on whatever you know whether it still
+teaching them how to launch a business
+or whether it's talking about here's how
+to get jobs or whatever it's interesting
+that I've been saying like the pattern
+that I'm seeing across I have 36 SAS
+companies that I've invested in and I
+was saying it was twenty percent twenty
+percent and sixty percent are in these
+three buckets but when I actually kind
+of looked at it further it's more like
+15 15 and 70 and 15 percent of the
+companies I've invested in are crushing
+it right now they're liking because
+they're they're in podcasting or some
+other remote thing that suddenly took
+off because of this recession 15 percent
+are getting crushed because they're in
+something that this recession and
+frankly the pandemic has has you know
+ground to a halt like schools like
+seeing you know senior living would be
+an example right and I don't know
+there's there's other travel right and
+then 70% are just kind of things are
+slowing down because of the recession
+they're not impacted by the pandemic
+itself but the fact that some people are
+backing off it's like things are slowing
+down but they're not plateauing yet and
+they're just kind of eyeball on it and
+you know and so I do think it'll be a
+time of slowness yeah yeah it's also
+hard to tell what's gonna happen yeah I
+don't know if it was another month or
+two or another yeah and you know and the
+second-order effects which is you know
+like in podcasting a lot of our
+customers are prosumers so they're you
+know they're hobbyists that want to
+start a podcast and maybe build a person
+brand or start a podcast and maybe make
+a little sponsorship money and prosumers
+are generally putting it on their
+personal credit card well you know that
+if there's a trillion dollars of credit
+card debt in the United States how
+elastic is that debt meaning at what
+point does it actually hit a wall and
+does it kind of all cert to crumble
+right as long as it's elastic as long as
+there's some give there then you know
+we'll be fine but if if a lot of our
+customer base loses their job or you
+know their business isn't doing as well
+then we're going to start to see some of
+those effects we haven't seen it yet but
+that's always in the back of my mind I
+was like okay none of us are really safe
+and you know I noticed I wrote this big
+list of platforms that seem to be doing
+well right now and you know in the gold
+rush there was some entrepreneurs in the
+gold rush that didn't go in mine for
+gold
+Levi Stross was one of them the creative
+Levi's jeans they were creating supplies
+for gold geeks and shovels picks gasps
+yep and a lot of the platform's we're
+seeing doing well right now are selling
+picks and shovels to gold miners so
+you've got digital ecommerce podia
+Gumroad doing very well
+they've even released some of their
+numbers like charts that just go up into
+the right
+traditionally conference Shopify Square
+Lightspeed all doing very well right now
+any platforms that enable creators so
+membership platforms
+you've got member full member space
+patreon ghost even here's what's
+interesting here's what's interesting
+about these companies is if we weren't
+in a pandemic where everyone's locked
+down I actually don't think that they
+would they wouldn't be going up into the
+right and be I think they would be
+slowing down along with everyone else
+you know cuz I wouldn't necessarily shop
+more online if I could leave my freaking
+house you know what I mean and I think
+most of the world would so so I think
+that's where we need to differentiate
+here
+there's a difference between this
+unprecedented lockdown and a recession
+which has technically I mean it's
+technically started but we're really not
+into the meat of it yet you know the
+other thing I want to say because we
+could we kinda have to move on to the
+next topic I I think there's I was
+almost wondering is it is it even worth
+factoring this into your decision when
+you start your business like let's say
+you were thinking about starting a SAS
+company should you should one of the
+criteria be is this recession resistant
+I'm not sure that it should be because
+there's one recession every six to ten
+years and it typically lasts six to
+fifteen months so should that guide your
+whole thought process should it be even
+a factor and I'm not saying it shouldn't
+or should I should not but it's
+certainly less important to me than
+other factors like you know price
+sensitivity market size ease of reaching
+them online and the other one net
+negative turn right those are my kind of
+my four that I look at I think there's a
+principle here like a lot of these
+companies were already doing well like
+they were already growing beforehand I
+can't really see an example here that
+wasn't growing beforehand so the
+fundamentals were already good and I
+think the principle is that if we look
+through the history of Commerce a good
+bet is selling tools and supplies for
+other people right to that enable other
+people to be creative or enable other
+people to sell online and you know the
+infrastructure that runs like everyone
+wants to start a coffee shop because
+it's super cool and everything but Visa
+and MasterCard make a lot of money just
+off coffee shops right they're enabling
+the commerce and I think in general
+that's a good bat and again like when I
+look at this list there's almost
+everything that's eat kind of in this
+category even like tailwind UI by Adam
+Lavin and Steve sugar was doing really
+well before and then they launched it
+during the pandemic and it's done
+incredibly well right but they would
+have done well either way
+it also just happens to be not a bad
+thing to sell during pandemic and a
+recession because people want to be
+building their own things creating their
+own things so yeah I think the
+fundamentals and a lot of these
+businesses are kind of good already
+as as opposed to you know it's just I
+think it's gonna be a lot harder for
+most entrepreneurs like even someone
+like me to build a content business
+that's going to get to that level so
+like content businesses have actually I
+think struggled a little bit that you
+know the online course platforms and
+things like that it's just you think
+that they'd be doing a maze just
+counterintuitive yeah yeah that's kind
+of intuitive i we have a question from
+youtube so we have about four or five
+minutes left from youtube and he asks so
+it's from christian foud and he said did
+the did each of you set out with a goal
+of building a SAS product I asked
+because we've been writing custom
+software for ages bespoke stuff is what
+he says and are on the verge of being
+able to start a SAS licensing a product
+that we own but it's been a slog to get
+there and a lot of the last four years
+has been a learning curve you have a
+quick one minute thought on that yeah I
+mean for me I have this this metaphor of
+surfing so I felt like I was just
+swimming around in the waters and I was
+kind of swimming around in the
+podcasting waters and then I noticed the
+wave of opportunity come and that just
+seemed like a good opportunity so I
+paddled out and I tried to get up on it
+I I think there are other models that
+are like if I was Adam Wow then and I
+saw the opportunity for tailwind you I I
+would have done that because that's a
+great opportunity it's not SAS its
+one-time sales but unlike me he can do
+one sail and you know him Steve they can
+do millions of dollars in revenue
+whereas a launch for me was you know a
+good launch was thirty or fifty grand
+so depending on the the opportunity how
+good of a fitted is
+for me those are the kick those are the
+things I would be considering SAS is
+great
+but it has to kind of match up with
+those other things as well yeah and for
+me well you know I started building in
+2000 so there was no SAS really and and
+I kinda started having success from 2005
+so again there really wasn't I mean
+there's a you know there wasn't SAS as
+we know what it wasn't called that but
+the moment that I learned that you could
+have recurring revenue when I was
+running one-time sale products I was
+like how do I do that I want to go to
+there and I also with downloadable
+software
+I had this invoicing software people
+would download and then they would run
+it off of their web server okay or a
+shared hosting account and they would it
+was like fresh books but you had you
+know you kept your own data basically
+and the headaches of troubleshooting
+their shitty setups and dealing with the
+web hosts who block this and that
+plug-in hours and hours and hours and
+then if we shipped a bug and we had 500
+customers using this it's like you have
+to literally email them a new file right
+or email them a new version and then if
+there's a database change they have to
+run a script on their production
+database and you have hundreds of
+customers with hundreds so when I heard
+that I learned that you didn't have to
+do that and the revenue was recurring I
+was like sign me up so that was two
+thousand eight or nine and I acquired
+something called wedding toolbox that
+was pretty much one unlaunchable see SAS
+which doesn't work very well and then
+branched it up to to hit tail in 2011
+and then of course building drip in 2012
+was it was like I'm on this plane now
+and this is this is what I want to be
+doing for a career you know so I but
+it's always this it's always the size
+and shape of the opportunity like Ian
+Landsman does installed software so you
+never want to say like don't do it but
+oh ya know if the size and the shape of
+the opportunity looks good wave looks
+good and it matches your writing style
+or whatever like get on that way that
+makes way more sense than trying to
+force recurring revenue if it doesn't
+match kind of the shape of the wave well
+yeah and again it's a competitive
+advantage be
+cuz there's no one everyone's doing sass
+now so he's one of the very few that you
+can download on Prem right and that's
+one of the reasons that works so I think
+that's so cool it's to Zig when
+everybody else is sagging right
+everyone's going towards sass so should
+you consider the alternate alright we're
+one minute over but I have one more
+question from slack and it's lightening
+around it and then we'll wrap it do
+you think you should hedge against the
+risk of running your own startup by
+investing and I think what they're
+saying is should you put money in public
+markets to hedge against the risk of
+running your own startup I mean I'm just
+brand-new so I don't know I have been
+investing more and I mean the best money
+I can make every month is still you know
+what I make the most money on is US
+dollar to Canadian conversion so for me
+it makes more sense for me to time the
+conversion market then try to time the
+stock market I'm still playing in the
+stock market but if you are not in the
+US if you're in Australia or Canada it
+makes way more sense for you to get a
+good conversion service or whatever and
+really figure out the timing of that and
+you'll make way morning way more money
+than you would in the stock market and
+for me the way I mean I can only tell
+you when people say should I what I
+always say is this is what I did you
+know what I mean and so and and and I I
+felt and I feel good about what I did
+but yes I've been contributing to
+retirement since I was 18 maybe even 16
+when I had a you know a job and and I
+read read some Warren Buffett stuff and
+he said compound interest if you put a
+thousand dollars in the bank
+I'm sorry in an IRA or a retirement
+account when you're 16 it's so much
+different than putting a thousand
+dollars in when you're 40 you know
+because it has years to compound a
+compound compound so I was putting just
+nickels and dimes away I wasn't that
+much I was making five bucks an hour
+minimum wage that's where I always had
+retirement going in the background while
+I was building my businesses but I kept
+the bulk of my money I made more of it
+from my own companies you know and I
+mean I did for retirement
+a few years where things were lean and I
+did not contribute to retirement in
+order to fund hit a land drip but it was
+at the point where I was like this this
+is going to be this is gonna be many
+millions of dollars and and if I take
+this 15 grand and don't put it in in the
+account this year it's gonna help me
+hire another person or whatever so there
+were a few times ending that but overall
+I mean even when I sold drip I had I
+don't remember what the number was but
+it was I had maybe three hundred
+thousand dollars socked away in
+retirement accounts you know what I mean
+so I would have been so if drip was my
+retirement plan but if that hadn't
+worked out yes I have my wife and I
+sherry had been contributing for years
+as much money as we could to get into
+retirement
+but yeah so both Bo she and I grew up
+pretty like she grew up poor I grew up
+working class and we have watched
+friends and family like get to 65 and
+not have money and and it's a thing that
+we hold you know we're savers right
+we're we had that fear of not having
+money because we've seen it you know
+yeah I think just to end on that like
+the advice I give people now is the best
+way to start a business is to have a
+bunch of cash in the bank if you've got
+a bunch of cash in the bank whatever
+that is for you it just the margin it
+gives you so much better yeah absolutely
+well Sarah folks want to hear you
+pontificate about this kind of stuff
+every week they can go to build your
+sass which is your podcast if they want
+to see what you're up to they can go to
+transistor dot F M that is your sass app
+your podcast hosting and of course you
+are
+mi Justin on the Twitter's thanks so
+much for joining me man
+yeah thanks it's fun
+awesome and so coming up we have next
+Wednesday May 13th Sarah Hatter from Co
+support talking about the emotional
+investment that is customer experience
+see you next week same time same place
+[Music]

@@ -1,0 +1,641 @@
+# METADATA
+{
+  "expert": "Nathan Latka",
+  "video_id": "a74i8QnIiHA",
+  "query": "Nathan Latka podcast"
+}
+
+# TRANSCRIPT
+You obviously went through a crazy story
+here. What's the closest you came to
+running out of money?
+>> We were less than two months of the
+runaway. Some people were drafted to the
+army. There was the ongoing war in
+Ukraine [music] where our R&D stays. So
+we were panicking. The first decision we
+made is even before that happens, we
+stopped all the salaries to both of the
+founders like enables your built-in
+mechanism of survival because you know
+that okay they may have no salary in 2
+months but we do not have it already
+today.
+>> You're doing about $6 million bucks of
+revenue. If someone came and offered you
+a 4x multiple today, so $24 million all
+cash upfront to sell the business. Do
+you take the deal?
+>> 100%. No, it's definitely worth way more
+than that. Hey folks, my guest today is
+Vlad Malinin. He's an MD, PhD, and is a
+surgeon turned AI scientist and CTO,
+[music]
+co-founder of Speed Size today, which is
+an award-winning startup transforming
+media optimization, think metadata for
+200 plus global brands. [music] He
+blends tech, neuroscience, and real
+world impact together and is a Forbes
+technology council member shaping the
+future of AI. Vlad, you ready to take us
+to the top?
+>> Yeah.
+>> All right. So give me an sense or two
+what speed size does.
+>> Um so speed size basically uh does
+something that is in one or two sentence
+we do AI media compression even one
+sentence. Yeah, AI media compression.
+Guys, to translate that, for those of
+you that are not neuroscientists, we all
+visit websites with e-commerce brands.
+More more now than ever, these
+e-commerce brands are not using just
+still images. They're using rotating,
+you know, uh, you know, animated
+graphics for products or things that
+change colors when people scroll or
+things like that. It appears Vlad is
+helping make sure those pages continue
+to load fast. Vlad, is that accurate?
+>> Yeah, it is. Because the more we live,
+the bigger data becomes, especially the
+modern rich media websites with a lot of
+videos and as you mentioned all those
+360 animations, hero videos, product
+videos, all that. And it's not only
+about the fact of using that kind of
+media per se. It's also the fact that
+you need to maintain the quality and
+brands care about that a lot.
+>> In terms of compression, let's jump into
+a real example here. You have some
+really big brands. listed on your
+website. Everyone knows sort of hookah
+running shoes or let's do Crocs.
+Everybody knows Crocs. Uh before we dive
+into the Crocs website so you can show
+us sort of how they use you. How many
+customers are you working with today?
+Just total count.
+>> Yeah, we have around 200 customers and
+most of them as you can imagine they're
+fashion brands, clothing, apparel, this
+kind of industry. However, not limited.
+We also work with travel industry. We
+work with uh jewelry. We work with uh
+marketplaces. So all that kind of I
+would say general e-commerce with a
+focus on uh fashion brands mostly.
+>> Okay. So let's go to Crocs now. Where
+can I go on the Crocs website to see the
+thing that you're powering?
+>> So Crocs, Crocs specifically, we do not
+work with their main location. So we
+with Crocs specifically, we work with
+the uh Israel subdivision, their
+official retailer, Wish shoes. And uh we
+shoes is the biggest uh shoes retailer.
+>> Can you spell it?
+>> Uh just we Shoes.co.
+>> Yeah, it should be like this.
+Uh okay. Yeah, this is one of the
+biggest, if not the biggest websites
+that uh sell shoes and they use this
+pretty much across everything. So you
+picked a great
+>> So is this you right here? Is this you?
+>> Yeah, this is uh so you
+>> Okay, so let's dive into this example
+here. Like are are they controlling all
+this metadata through your platform or
+just the image over here on the right?
+>> No. So they control only the uh image
+data. So we do not work with the
+business data like the description
+although we can possibly and it might be
+a pivot in the future. So the idea is
+that uh we do the AI image analysis so
+we know exactly what's on the image and
+this is a part of our technology because
+we need to know we need to emulate the
+human brain and how it perceives the
+visual information on on the screen.
+>> Tell me more about your team. You come
+from a deep technology background. How
+many people are full-time today and how
+many are engineers?
+>> Yeah. So, uh we had I would say that uh
+it's uh not the standard yet natural for
+me especially uh way to handle the team.
+So, uh two years ago we used to be 50
+people and we decided to focus and make
+a leaner team. So now we are around 20
+to 25 people and a couple of contractors
+and the uh tax subdivision out of that
+is around 70%. So we are mostly tech
+people right now and before that when we
+used to have 50 it was less than 50% of
+technical people.
+>> All right so 25 on the team today about
+16 17 of them are engineers writing real
+code. Um, explain to us how customers
+uh, pay you, right? You guys have a lot
+of engineers. I'm sure you have some
+business and marketing folks. What does
+your pricing look like today?
+>> Yeah, so we do not work with SMBs. So,
+our main audience is the mid-markets and
+small enterprises and ideally big
+enterprises. So, we do have some big
+brands yet not that long. Fortune 100.
+Well, besides uh, Philip Morris
+International, I guess that's uh, lies
+into that category. But other than that
+uh Googles of the world are not yet
+working with us. So um uh the pricing
+works very simple. We have two units.
+One is the amount of data that you need
+to transfer in gigabytes and the amount
+of assets original assets. Not all that
+hidden charges with transformations and
+all the other words that people do not
+understand. Just the amount of SKUs that
+you have on uh your products. you can
+estimate how much you need to use.
+That's it. Uh the um
+the average uh customer pays us uh lower
+end five figures a year. Uh it's um
+annual contracts. So as simple as that.
+>> Can you So just to be when you say low
+five figures, is it fair to say an
+average contract price might be $50,000
+per year? uh a little bit lower. So
+50,000 is like lower tier mid-market
+uh like to general ones. So uh those
+which are closer to the SMB category,
+they pay around probably 10 to 20k a
+year and midm market is probably 50 to
+100k and small enterprises is uh six
+seven figures pretty much. And don't
+name the obvious obviously don't name
+the customer but what does the largest
+customer pay you today per year?
+>> So uh that's the seven figures and uh
+lower end of seven figures and that's
+that's our biggest uh values that we
+have.
+>> Okay. So it's fair to say you have one
+customer paying you more than $100,000
+per year today?
+>> No, we have several several customers
+paying more than that.
+>> When will you have your first million
+dollar per year customer? So uh we do so
+the thing is that the way how we work is
+we rely to land and expand strategy and
+customers are generally growing and the
+beauty of speed size is that once they
+start using speed size they open the
+doors for using richer media. So we have
+plenty of cases. Wishes is by the way
+one of them. the one that we reviewed uh
+earlier, they started using video and
+you could see when you open the website,
+you could see that they using videos.
+They couldn't afford this their general
+Shopify.
+>> Wait, wait, wait, hold on. Let me get a
+visual up while you tell this story.
+Sorry, I don't see Tell me where to go
+to see the video like you're talking
+about this up here at the top.
+>> Yeah, you you have this one. Apparently,
+they have also product videos. I cannot
+name like exact products where they have
+right now, but they uh started using
+videos. Well, you can see some reviews,
+whatever. And uh before that, they
+didn't have anything. And we have plenty
+of brands that use video uh widely on
+the website. So almost every PDP product
+detail page has a video like this. So
+>> So you make this happen.
+>> Yes. So what they what they what they
+had and this is a general problem of
+Shopify specifically. Shopify limits
+your videos to full HD. You cannot have
+a video which is higher resolution than
+that. Also, they kill the quality. They
+don't have the adaptive delivery and
+just the overall performance is is just
+terrible. So, when you want to have like
+this kind of experience with full screen
+blowing away videos, you cannot do
+anything with Shopify at all. So, with
+speed size, this is the moment where you
+can actually start using videos like
+this. And
+>> that's that's pretty much the bottleneck
+that we saw for such customers. They
+have no other options. They cannot solve
+this with Shopify or any other two.
+>> Mhm. Okay. So, tell me you you you're
+mostly engineers, but you're selling
+expensive, you know, on average $30,000
+ACB kind of contracts. How is your sales
+team structured? What do you set their
+quota at?
+So uh we made a pivot and we decided
+instead of uh heavily relying on direct
+sales we decided to go uh focused on
+partnerships. So we are fully based in
+AWS and we are premium partner of AWS
+and AWS since they do not have native
+uh image and video compression. AWS
+offers speed size as a solution for
+image and video compression as well and
+we have a variety of partnerships. We
+have the uh
+we we have the agencies which are
+promoting speed size and we have
+>> really quick sorry on a on AWS I brought
+it up but it looks like you don't have
+any reviews here which signals to me
+that very few people are using it. Is
+this the right page for the partnership?
+Yeah, it's it's the right it's the right
+page and it's very natural for AWS
+marketplace because this is just the
+generic requirement to become a partner
+and in this case the you cannot buy us
+like this. You cannot just go to the
+marketplace and uh buy us. There is no
+like uh real way to buy this. So it will
+still redirect you.
+>> Okay. Are there any other top growth
+channels besides Shopify and AWS?
+uh yes so we are right now uh being
+adopted by a IBM cloud as well and uh
+it's uh early in the process as IBM also
+is restructuring their cloud services
+they they uh they're changing their CDN
+and they want to become big because they
+uh they kind of lost the race early in
+the days even though they're huge
+company
+>> uh so uh it it also looks promising And
+our idea is that we want to be in the
+places in the cloud suppliers who lack
+the native image and video compression
+and delivery. So think of uh AWS of
+course
+>> Google clouds, Microsoft Asia uh because
+others suppliers like Cloudflare,
+Akamite already have the built-in one
+which is not great but for most of the
+customers that works.
+>> Mhm. Now Vlad, you mentioned earlier a
+$30,000 average price point and you
+mentioned 200 customers. Can I multiply
+those together? That would put you about
+$6 million of revenue today.
+>> Uh yeah, for the contract it's roughly
+that. I cannot give you the exact
+numbers. So rough roughly around that
+numbers.
+>> Okay. And if you're roughly around 6
+million of ARR today, what were you
+exactly one year ago in 2024?
+So uh we started our sales in 2022 early
+2022 uh and we were doubling the uh AR
+since then. We had uh one year when we
+did a lot of major stuff that we decided
+to do uh not easy decisions because this
+is decisions which are red flags for the
+VCs. However, we decided not to deal
+with visas at that point and uh in 2024,
+we only had like 10% error growth.
+However, what we did is that we cut all
+our expenses twice and the customer
+acquisition costs as well in half and we
+optimized everything and we decided that
+we do not want to uh raise money from
+VCs and that because company is doing
+really really well. Uh technology is
+great. Uh and uh we are really good with
+the cash flow. Customers love us. We
+have a very uh low uh churn rate and we
+also have a lot of growth within the
+customers because customers grow with us
+and we also open them the possibilities
+to use more of speed
+>> sets
+all the my audience will have my
+audience might have some troubles trying
+to follow percentages. It's just it's
+just hard. Can you give us the real
+number? Your first you launched in 2022.
+What was your total first year sales? Do
+you remember?
+>> Yeah. So uh first year sales were around
+like 400k from what I remember and we
+were growing at uh around 3 mil we were
+uh stalling and that year it's from 2023
+to 2024
+uh and we also decided to optimize
+everything because well I I'm originally
+Ukrainian my uh co-founder is Israeli
+and you can imagine the war started in
+2022 in Ukraine than in 2023 in Israel.
+So that was the
+>> that was the annoyingly uh tra tragic
+comical I would say
+>> you know and and I hope everyone's okay
+obviously uh power team I mean I work
+with a lot of Ukrainian founders who are
+just crushing it same thing with XI IDF
+folks from Israel just incredible genes
+incredible blood incredible vision
+incredible founders so to round out that
+story first year sales in 2022 was was
+$400,000 and you said you doubled in
+2023 to $800,000 of AR
+>> uh
+a little bit different. So we in 2023 we
+wore around 1.5 mil or something like
+this because we started the sales
+somewhere late 2021 early 2022 right
+right before the war started in Ukraine.
+So we technically had some sales in
+2021. So
+>> interesting but zero zero to $ 1.5
+million of ARR in about 18 months is
+obviously still impressive growth. So
+the war starts, you're having to manage
+multiple priorities at this time. 2023
+is 1.5 million and then 2024 you said
+was 3 million
+>> something around that. Yeah.
+>> And you've about doubled this year at
+around 6 million now today as we're
+recording.
+>> Yeah, something around that in that kind
+in that.
+>> And you've done all this and and and
+have you bootstrapped or raised money?
+>> We we did raise money. So we raised uh
+less what we have in AR right now and so
+we are still very effective. So me and
+my co-founder we have more than 70% of
+the equity. So we are technically pre uh
+series A and we didn't know whether we
+want to raise the series A.
+>> So I guess how much how much total have
+you raised between preed seed etc. So
+around 5 mil.
+>> Around five million. And what year did
+you raise that money?
+>> So the last big round was 2020 uh three
+I guess.
+>> Mhm. And how much was that one?
+>> So uh in 2023 I guess we we raised
+around uh 2 mil and in 2022 we raised
+around 3 mil and the rest uh like all
+the minor investments were before that.
+Do you regret raising $5 million?
+>> Uh, I wouldn't say that I regret. Maybe
+in a way uh in a way that I regret in uh
+in the decisions which were forced with
+that kind of uh uh fundraising. So you
+know we we got the regular VC fever the
+way how they force you to spend more
+money and just to chase the growth which
+is reasonable. Uh however, it's very
+easy to make mistakes and what we
+learned the hard way is that VCs are
+always less active in our case based in
+our experience than they claim to be.
+And in the end of the day, they care
+less about money uh that they spend on
+you and they care more about the
+potential profits and even if you have
+hard times like wartime, whatever,
+they're not the first people who will
+come to help you.
+Well, it sounds like you're in a very
+sustainable place today. 6 million of
+ARR with 25 on the team is very healthy
+revenue per employee. And did I hear you
+correctly earlier, Vlad? You said you're
+cash flow positive today.
+>> Uh well, technically we've flown that.
+So, not to be uh truly uh positive in
+this case, but technically, yeah. So, uh
+it's our decision when we want to be
+profitable or not. I would I would put
+it that way. So I mean let me decode
+that. Are you spending money on variable
+expenses right now like paid advertising
+which you could shut off at any time to
+be profitable? Is that what you're
+saying?
+>> Yeah, pretty much that.
+>> Okay. How much are you spending on paid
+ads right now across all channels?
+>> I I don't have this information in front
+of me to be honest. So
+>> Okay. Is it meaningful more than five
+grand a month?
+>> Uh I I guess so. Yeah. I I don't really
+know to be honest. So we mostly focus on
+the other channels. So uh I I would say
+that the biggest u the biggest profits
+uh that were brought by uh partnerships.
+So this were the biggest the biggest
+ones that that we did.
+>> So tell me more about that. The reason
+I'm going to dig here is because you
+know I interview thousands of founders
+and I plot all the growth tactics they
+give me here on my screen and one of
+them that they bring up obviously are
+app exchanges and partnerships. But many
+of them wait until they have scale
+because partnerships usually take more
+time and they're very they can be
+expensive to execute if you're doing
+custom integrations. You actually chose
+to do this though scaling early on. Uh
+it was one of the first growth tactics
+you used. Tell me more about what those
+partnership agreements look like and why
+you decided to go after those first. So
+partnerships agreements are usually
+actually not that easy to do especially
+with big organizations like AWS. There's
+a lot of bureaucracy. uh there's a lot
+of limitation and there is a lot of
+frustration. So when when you hear and
+that marketplace uh is is one of them.
+So you cannot be a premium partner
+unless you have the marketplace uh
+entity. However, nobody because we do
+not work with SMBs
+>> [snorts]
+>> uh like this and they simply do not buy
+the product like this uh on the
+marketplace. It's intended to be for the
+SMBs and enterprise. They couldn't care
+less about the marketplaces. They want
+the fine tailor deals. They are very
+aggressive in terms of the negotiations
+and all that. So, but it it pays off. It
+pays off 100%. Uh it took us almost uh
+two years to fully uh enroll the proper
+partnerships with AWS.
+>> Let's talk a little bit about AI before
+we wrap up. We've got about a minute and
+a half, two minutes left here. You're
+obviously very technology forward,
+right? deep technological roots, great
+engineer. So just so just to be clear,
+people still have to input some kind of
+image into your system and then you're
+making it better. I guess why do you
+think that's the future? Won't people
+just create images from scratch using
+nanobanana and other technologies?
+>> Uh we're not making images better. The
+thing is that every other solution makes
+them worse. The idea of speed size is
+not to enhance the images. The idea is
+to make sure that the original colors,
+details, the original clarity and
+quality of the images remains the same
+as the original one. So most of our
+customers, they have beautiful photo
+shoot quality. So that's not an issue.
+But uh all the rest of the competitors,
+they lose the colors, they lose the
+details, images become blurry and and
+everything and it's not something that
+that it it looks on the screen of the
+website visitors.
+>> Understood. Glad as we as we wrap up
+here, excited to see what you do with
+the business going forward. You're in
+control though. You said you and your
+co-founder own 70%. You're doing about 6
+million bucks of revenue. If someone
+came and offered you a 4x multiple
+today, so $24 million all cash upfront
+to sell the business, do you take the
+deal?
+>> Uh 100% not. And uh not because it's a
+bad deal and just like a just like an
+advice for that kind of technologist.
+This is like a very poor multiplier even
+today. But uh also that we see the
+potential, we see how the traction goes,
+how we grow the customers and
+everything. So it's definitely worth way
+more than that.
+>> And let's let's ask a negative question
+then before we wrap. You obviously went
+through a crazy story here. What's the
+closest you came to running out of
+money?
+Uh I think the closest one when we were
+less than two months of the runaway.
+>> What year was that and why were his cash
+so low? What happened?
+>> That was the year 2023.
+uh and that that's after the war started
+in Israel and we were panicking because
+we uh we actually had an investment that
+year to grow the sales team in Israel
+and sales team in Israel it takes high
+salaries in a way closer to the US
+salaries not the European ones and some
+people were drafted uh to the army and
+there was the ongoing war in Ukraine
+where our R&D stays so we were panicking
+in a way, but uh eventually everything
+went well.
+>> And how so just to confirm, how low did
+your cash get?
+>> Uh so that's probably less than
+$300,000.
+>> And what were you feeling at the time?
+Did you know you were going to come out
+of it? Were you actually nervous? Were
+you having conversations about shutting
+business down?
+>> The first decision we made is uh even
+before that happens, we stopped all the
+salaries to both of the founders. I know
+that's nothing with given our salaries.
+We're very modest and I had the salary
+lower than our developers actually. But
+this is the first action and that kind
+of you know it like enables your
+built-in mechanism of survival because
+you know that okay they may have no
+salary in two months but we do not have
+it already today
+>> so it's time to act.
+>> Yeah. Well hey incredible story Vlad we
+are obviously rooting for you. Just
+wrapping up here with a couple
+questions. How old are you? I'm 35.
+>> 35. And situation, married, single,
+kids.
+>> Yeah, I'm married. I have two beautiful
+kids, six and seven years old. Son and
+daughter.
+>> And where are you based today? Where are
+you personally building the company?
+>> Uh, in New York.
+>> I'm in Ukraine. Odessa, Ukraine.
+Beautiful sea on the on the sea shore of
+the Black Sea.
+>> And right now I'm person.
+>> All right. Well, very good, Vlad. As we
+wrap up here, if people want to find you
+online, where's the best place for them
+to look?
+>> I'm doing the detox from the social
+network. So, the best one is the boring
+LinkedIn. Other than that, uh on the
+speedsize.com,
+uh with the blog where I occasionally do
+some articles,
+>> guys, there you have it. Vlad launched
+speedsize.com in 2022. Did $400,000 of
+sales his first year, more than tripled
+that to 1.5 million in 2023. Today in
+2025, he's doing $6 million of revenue
+with 25 full-time employees. And he's
+done it in a very capital efficient way.
+Just $5 million raised to grow to six
+million of ARR. That's capital
+efficient. Now, he's gone through some
+hard times. Cash balance got as low as
+two months of runway. That was $300,000
+in the bank as the Ukraine war started.
+Him and his co-founder still managed to
+get through it. Today, they still retain
+70% of the business as they look to
+scale, helping DTOC brands keep their
+image quality extremely high on their
+website with fast loading times and even
+going deeper, enabling them to put
+sophisticated product videos together to
+increase conversion rates and increase
+revenue. That's why he's got 200 paying
+customers, many of which pay more than
+$100,000 per year. Vlad, thank you for
+taking us to the top.
+>> Thank you. Well, a pleasure.

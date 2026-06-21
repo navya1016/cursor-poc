@@ -1,0 +1,6 @@
+youtube-transcript-api==1.2.4
+duckdb>=1.0.0
+supabase>=1.0.0
+requests>=2.0
+beautifulsoup4>=4.0
+browser-cookie3>=0.17.0
